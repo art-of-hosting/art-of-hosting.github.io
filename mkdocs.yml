@@ -3,3 +3,11 @@ site_url: https://art-of-hosting.github.io/
 theme:
   name: material
   language: es
+nav:
+  - index.md
+  - elartedeanfitrionar.md
+  - sobreeldialogo.md
+  - elartedecosechar.md
+  - fundamentosdediseño.md
+  - herramientasdediseño.md
+  - practicas.md
