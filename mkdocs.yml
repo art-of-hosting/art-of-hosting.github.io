@@ -1,0 +1,5 @@
+site_name: Art of Hosting
+site_url: https://art-of-hosting.github.io/
+theme:
+  name: material
+  language: es
