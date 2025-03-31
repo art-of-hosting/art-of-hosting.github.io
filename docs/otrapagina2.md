@@ -50,3 +50,22 @@ _Dar voz ― ¿Qué pasa cuando hablamos nuestra verdad?_
 ↬ Acepta y permite que haya silencio. Crea espacio para que la esencia florezca.
 
 ↬ Habla a y desde el centro, reconociendo que no se trata sólo de relaciones interpersonales, si no que hay algo más grande en riesgo.
+
+
+## Niveles de escucha
+La propuesta de la Teoría U del [Presencing Institute](https://presencinginstitute.org/) nos invita a pensar la escucha en diferentes “niveles” que pueden ayudarnos a participar en un cambio de conciencia y posibilidad. 
+
+**(FALTA IMAGEN)**
+
+La mayoría de las veces, operamos desde la **escucha habitual o nivel 1**, en la que descargamos información para reconfirmar lo que ya sabemos. Lo que percibimos se limita a nuestras propias proyecciones, reflejando únicamente experiencias del pasado. Es una escucha condicionada, en la que solo prestamos atención a aquello que refuerza nuestras creencias preexistentes.
+
+Sin embargo, hay momentos en los que logramos un nivel más atento, **la escucha fáctica o nivel 2**. Aquí comenzamos a notar diferencias y a registrar datos nuevos. Dejamos de lado nuestras suposiciones iniciales y empezamos a percibir información que no encaja con lo que esperábamos. Para lograrlo, es necesario suspender juicios y estar dispuestas a aceptar lo inesperado.
+
+Si damos un paso más, entramos en la** escucha empática o nivel 3**, donde no solo percibimos información desde nuestra perspectiva, sino que realmente nos conectamos con la experiencia del otro. Empezamos a ver la situación a través de sus ojos, lo que genera una conexión emocional genuina. La escucha ya no sucede únicamente desde nuestro marco de referencia, sino que se expande al campo relacional, permitiendo que la conversación se transforme.
+
+Finalmente, en los momentos más transformadores, llegamos a la **escucha generativa o nivel 4**. Este nivel requiere que soltemos y dejemos entrar lo nuevo. Nos conectamos con una posibilidad futura emergente que nos ayuda a ser más plenamente quienes somos y quienes queremos ser. Es en este tipo de escucha donde surgen ideas innovadoras, soluciones inesperadas y un sentido profundo de co-creación con el mundo.
+
+A medida que avanzamos en estos niveles de escucha, dejamos atrás la necesidad de defender nuestras posiciones y abrimos espacio para el diálogo y la co-creación. La escucha generativa nos permite trascender lo que sabemos y conectarnos con el futuro que quiere emerger. En este proceso, no solo transformamos nuestras conversaciones, sino también la forma en que habitamos el mundo.
+
+
+
