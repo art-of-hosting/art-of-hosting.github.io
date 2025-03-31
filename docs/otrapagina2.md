@@ -3,8 +3,7 @@
 ## Pensar en conjunto
 En nuestra sociedad, estamos más acostumbrados a pensar solas y esto nos lleva a discutir y debatir cuando nos encontramos con otras, a creer que tenemos que defender nuestras opiniones y sostener nuestra posición. Si bien la discusión es una potente forma de intercambio también tiene limitaciones porque se enfoca sobre la forma de pensar que excluye (o una idea u otra idea), provoca pensamiento cerrado y el control del resultado. La discusión puede fácilmente transitar a un estadio de debate, cuya raíz significa “vencer”. Esto a menudo crea frustraciones y malos entendidos y sentimientos entre las personas que necesitan trabajar juntas. **El diálogo, por otro lado, está basado en las suposiciones de que en cada situación hay una integridad de fondo.** No solo hay sitio para todas las perspectivas, sino hasta que todas las perspectivas sean expresadas y honradas, esa integridad no podrá emerger y ser vista del todo.
 
-**Aprender a dialogar**
-Para lograr pensar en conjunto, necesitamos aprender a dialogar. Podemos transformar cualquier conversación si desarrollamos nuestras habilidades básicas de diálogo: escuchar, respetar, suspender y dar voz.
+Para lograr pensar en conjunto, **necesitamos aprender a dialogar**. Podemos transformar cualquier conversación si desarrollamos nuestras habilidades básicas de diálogo: escuchar, respetar, suspender y dar voz.
 
 
 _Escuchar - ¿Qué necesitamos para escuchar de verdad?_
