@@ -3,7 +3,7 @@ El Arte de anfitrionar y cosechar conversaciones que importan –conocido en ing
 
 Esta práctica se construye sobre la convicción y la experiencia de que podemos encontrar nuevas soluciones para el bien común basadas en el entendimiento de nuestra interconexión, ya sea en las comunidades o en las familias, en el gobierno, en la educación, en las empresas grandes y pequeñas, en las organizaciones civiles, en los movimientos sociales, etc. En definitiva, es una aventura de descubrimiento y co-creación, en donde a través de conversaciones significativas, buscamos y encontramos sueños compartidos y desarrollamos nuevas habilidades para relacionarnos.
 
-Art of Hosting no es una compañía o una “marca registrada”, sino una comunidad de práctica involucrada en el arte de ser los anfitriones/as de conversaciones transformadoras. La web oficial de esta práctica es [esta]([otra-pagina.md](http://artofhosting.org).
+Art of Hosting no es una compañía o una “marca registrada”, sino una comunidad de práctica involucrada en el arte de ser los anfitriones/as de conversaciones transformadoras. La web oficial de esta práctica es [esta](http://artofhosting.org).
 
 Habitamos un mundo que no es “blanco o negro” sino que presenta matices. Por eso, necesitamos ser capaces de operar en la ambigüedad y sostener opuestos o paradojas:
 ↬ Caos y Orden
