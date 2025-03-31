@@ -1,4 +1,4 @@
-# El arte de anfitrionar y cosechar las conversaciones que importan (Art of Hosting)
+# Sobre este manual virtual
 
 Este manual online pretende ser una bitácora de tu experiencia de aprendizaje. Aquí compartimos los supuestos básicos del Arte de anfitrionar y cosechar conversaciones que importan, inspiradas y basadas en "Art of Hosting".
 
