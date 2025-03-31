@@ -1,3 +1,6 @@
-# Otra página
+# El arte de anfitrionar y cosechar las conversaciones que importan (Art of Hosting)
+El Arte de anfitrionar y cosechar conversaciones que importan –conocido en inglés como Art of Hosting- está diseñado para incrementar el nivel de participación en nuestros equipos; implementando prácticas que promueven la toma de decisiones efectivas, la transformación de conflictos y el sentido de pertenencia para responder adecuadamente a oportunidades y desafíos colectivos.
 
-Lalalala
+Esta práctica se construye sobre la convicción y la experiencia de que podemos encontrar nuevas soluciones para el bien común basadas en el entendimiento de nuestra interconexión, ya sea en las comunidades o en las familias, en el gobierno, en la educación, en las empresas grandes y pequeñas, en las organizaciones civiles, en los movimientos sociales, etc. En definitiva, es una aventura de descubrimiento y co-creación, en donde a través de conversaciones significativas, buscamos y encontramos sueños compartidos y desarrollamos nuevas habilidades para relacionarnos.
+
+Art of Hosting no es una compañía o una “marca registrada”, sino una comunidad de práctica involucrada en el arte de ser los anfitriones/as de conversaciones transformadoras. La web oficial de esta práctica es [esta]([otra-pagina.md](http://artofhosting.org).
