@@ -1,6 +1,61 @@
 # Prácticas de Anfitrionazgo
 En esta sección te compartiremos una guía de anfitrionazgo para las prácticas de: Cafe del Mundo (World Cafe), Espacio Abierto (OpenSpace), Cosecha colectiva de Historias, Círculo, Diseño para la acción Sabia (DAS) y Cafe ProAction.
 
+## El Círculo de la palabra
+El Círculo de Conversación es una metodología de diálogo basada en la práctica ancestral de reunirse en círculo para compartir sabiduría, resolver problemas y fortalecer la comunidad. Formalizado por Christina Baldwin y Ann Linnea en The Circle Way, este enfoque ayuda a generar conversaciones significativas en las que cada persona es escuchada y cada voz es valorada.
+
+"El camino del Círculo no es propiedad de nadie, pero es responsabilidad de todos los que lo practican. Es una práctica ancestral que ha sido compartida a lo largo del tiempo por comunidades en todo el mundo y requiere intención, presencia y escucha genuina." — Christina Baldwin y Ann Linnea
+
+**📚 Introducción**
+
+El Círculo de Conversación se basa en tres elementos clave:
+
+- Centro: Un punto focal simbólico (puede ser un objeto o una intención) que ayuda a mantener la atención del grupo. En esta práctica solemos crear un altar central con elementos de la naturaleza, objetos relevantes, velas y flores.
+
+- Borde: Un espacio seguro definido por acuerdos claros que permite la expresión abierta y respetuosa.
+
+- Corazón: La intención de la conversación y la práctica de la escucha activa y el habla desde la autenticidad.
+
+Los círculos pueden usarse para la resolución de conflictos, la toma de decisiones, el aprendizaje compartido o simplemente para generar un espacio de conexión y reflexión ya que son espacios de profundo discernimiento. 
+
+**⏳ Cuándo usar un Círculo de Conversación**
+
+Esta metodología es ideal cuando: se busca una conversación profunda y significativa, se necesita generar confianza y fortalecer relaciones en un grupo, se requiere reflexión antes de tomar decisiones importantes, se desea fomentar la inclusión y la diversidad de perspectivas y/o se enfrenta un conflicto y se quiere facilitar el entendimiento mutuo.
+
+**🛠️ Cómo se hace un Círculo de Conversación**
+
+1. Preparar el espacio: disponer las sillas en círculo sin mesas en el medio y crear un centro simbólico con elementos relevantes.
+
+2. Definir la intención: clarificar el propósito de la conversación y compartir la pregunta que se desea explorar en conjunto.
+
+3. Establecer acuerdos de participación: Hablar con intención, escuchar con atención y autoregular el impacto.
+
+4. Utilizar un objeto de palabra (opcional): explicar que solo la persona que sostiene el objeto es la que habla, quienes no tienen el objeto escuchan con atención.
+
+5. Facilitar el flujo de la conversación: pueden hacerse varias rondas para que todos compartan. Se pueden alternar momentos de diálogo abierto y reflexión silenciosa. Si alguien desea participar desde el silencio, también se le da la bienvenida.
+
+6. Cerrar el círculo: existen diversas formas de cerrar el círculo, te recomendamos diseñar la que sea más adecuada a la exploración de ese espacio.
+
+**🏠 Organización del espacio**
+
+📍 Disposición en círculo: Sin barreras visuales entre los participantes.
+
+🕯️ Centro simbólico: Representa la intención compartida.
+
+📝 Materiales para registro: En caso de querer documentar los aprendizajes.
+
+
+**🎯 Tips para esta práctica**
+
+🌟 Confía en el proceso: Aunque pueda parecer lento para la velocidad que manejamos día a día, genera conexiones profundas.
+
+🗣️ Evita monopolizar la palabra: Deja espacio para todas las voces.
+
+🔄 Respetar los silencios: Pueden ser momentos de reflexión valiosos.
+
+
+El Círculo de Conversación es una práctica poderosa para fomentar la expresión auténtica y el aprendizaje colectivo. Con el ambiente y la intención adecuados, puede transformar la manera en que nos relacionamos y construimos comunidad. ✨
+
 
 ## ☕ Cafe del Mundo
 
