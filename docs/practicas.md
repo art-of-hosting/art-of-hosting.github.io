@@ -1,7 +1,7 @@
 # Prácticas de Anfitrionazgo
 En esta sección te compartiremos una guía de anfitrionazgo para las prácticas de: Cafe del Mundo (World Cafe), Espacio Abierto (OpenSpace), Cosecha colectiva de Historias, Círculo, Diseño para la acción Sabia (DAS) y Cafe ProAction.
 
-## 💫Círculo de la palabra
+## 💫 Círculo de la palabra
 El Círculo de Conversación es una metodología de diálogo basada en la práctica ancestral de reunirse en círculo para compartir sabiduría, resolver problemas y fortalecer la comunidad. Formalizado por Christina Baldwin y Ann Linnea en The Circle Way, este enfoque ayuda a generar conversaciones significativas en las que cada persona es escuchada y cada voz es valorada.
 
 "El camino del Círculo no es propiedad de nadie, pero es responsabilidad de todos los que lo practican. Es una práctica ancestral que ha sido compartida a lo largo del tiempo por comunidades en todo el mundo y requiere intención, presencia y escucha genuina." — Christina Baldwin y Ann Linnea
@@ -115,7 +115,7 @@ El proceso de un Café del Mundo sigue estos pasos:
 El Café del Mundo es una herramienta poderosa para facilitar conversaciones transformadoras. Con una buena preparación y una pregunta inspiradora, permite generar conexiones, aprendizajes y soluciones innovadoras. ✨
 
 
-## 🚀Espacio abierto
+## 🚀 Espacio abierto
 
 El "Espacio Abierto" (Open Space Technology) es una metodología de facilitación que permite que grupos desde cinco hasta más de dos mil personas organicen su propia agenda y trabajen en los temas que realmente les interesan. Fue desarrollado por Harrison Owen en la década de 1980 y se basa en la autogestión, la pasión y la responsabilidad. Owen tomó inspiración de los aprendizajes de la comunidad de Balamah en África, observando cómo se organizaban de manera natural para resolver problemas y tomar decisiones colectivas.
 
