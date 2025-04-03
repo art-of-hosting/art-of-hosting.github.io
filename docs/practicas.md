@@ -16,7 +16,8 @@ El Círculo de Conversación se basa en tres elementos clave:
 
 - Corazón: La intención de la conversación y la práctica de la escucha activa y el habla desde la autenticidad.
 
-Los círculos pueden usarse para la resolución de conflictos, la toma de decisiones, el aprendizaje compartido o simplemente para generar un espacio de conexión y reflexión ya que son espacios de profundo discernimiento. 
+Los círculos pueden usarse para la resolución de conflictos, la toma de decisiones, el aprendizaje compartido o simplemente para generar un espacio de conexión y reflexión ya que son espacios de profundo discernimiento. Para profundizar en la práctica del Círculo de Conversación, puedes consultar la [web en español de The Circle Way](https://www.thecircleway.net/)
+
 
 **⏳ Cuándo usar un Círculo de Conversación**
 
