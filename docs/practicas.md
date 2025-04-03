@@ -44,7 +44,7 @@ El proceso de un Café del Mundo sigue estos pasos:
 
 🎨 Preparar el espacio: Se organizan mesas pequeñas con manteles de papel y marcadores (puedes agregar flores y pequeñas velas o cualquier otro elemento para simular el espacio de un cafe). Tip! El número de participantes en la mesa es clave para lograr la dinámica, la recomendación es de 4-5 personas.
 
-📢 Explicar la dinámica: Se invita a las personas a sentarse en las mesas y elegir un "anfitrión/a" que permanecerá en ella, las demas personas podrán rotar de mesas en las rondas siguientes como "embajadores/as de ideas". Todas las personas están invitadas a cosechar sus ideas en el mantel de papel, es un elemento clave de la dinámica.
+📢 Explicar la dinámica: Se da la bienvenida a las personas, se comparte la dinámica que se realizará y la etiqueta del cafe. Se invita a las personas a sentarse en las mesas y elegir un "anfitrión/a" que permanecerá en ella, las demas personas podrán rotar de mesas en las rondas siguientes como "embajadores/as de ideas". Todas las personas están invitadas a cosechar sus ideas en el mantel de papel, es un elemento clave de la dinámica.
 
 🔄 Conversaciones en rondas: Se llevan a cabo 3 o 4 rondas de 15-30 minutos cada una. Al finalizar cada ronda, todos cambian de mesa excepto un "anfitrión de mesa", quien permanece para compartir un resumen de la conversación previa con los nuevos integrantes. A medida que avanzan las rondas, se conectan y amplifican ideas.
 
