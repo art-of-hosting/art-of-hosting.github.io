@@ -59,7 +59,7 @@ El proceso de un Café del Mundo sigue estos pasos:
 El Café del Mundo es una herramienta poderosa para facilitar conversaciones transformadoras. Con una buena preparación y una pregunta inspiradora, permite generar conexiones, aprendizajes y soluciones innovadoras. ✨
 
 
-## Espacio abierto
+## 🚀Espacio abierto
 
 El "Espacio Abierto" (Open Space Technology) es una metodología de facilitación que permite que grupos desde cinco hasta más de dos mil personas organicen su propia agenda y trabajen en los temas que realmente les interesan. Fue desarrollado por Harrison Owen en la década de 1980 y se basa en la autogestión, la pasión y la responsabilidad. Owen tomó inspiración de los aprendizajes de la comunidad de Balamah en África, observando cómo se organizaban de manera natural para resolver problemas y tomar decisiones colectivas.
 
@@ -84,6 +84,7 @@ Esta metodología es ideal cuando: se necesita innovación y co-creación en gru
 El proceso sigue estos pasos:
 
 _Previo a la facilitación:_
+
 👉Definir la pregunta convocante: Se establece un tema general que guía las conversaciones y el mismo se expresa en la pregunta convocante del encuentro. La misma declara lo que se desea explorar en la grupalidad.
 
 👉Convocar a personas vinculadas con esa pregunta, explicando el tipo de evento y la cualidad de participación que requerirá.
