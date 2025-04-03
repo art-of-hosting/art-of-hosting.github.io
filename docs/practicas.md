@@ -40,7 +40,7 @@ _Es importante que haya por lo menos 10 personas._ Se recomienda utilizarlo en c
 
 El proceso de un Café del Mundo sigue estos pasos:
 
-📌 Definir el propósito y las preguntas guía: Diseña dos o tres rondas de conversación, cada una con su pregunta de exploración.
+📌 Definir el propósito y las preguntas guía: Diseña dos o tres rondas de conversación, cada una con su pregunta de exploración. Una vez que sepas lo que quieres lograr y la cantidad de tiempo que tienes para trabajar, puedes decidir la cantidad y la duración adecuadas de las rondas de conversación, el uso más eficaz de las preguntas y las formas más interesantes de conectar y polinizar las ideas.
 
 🎨 Preparar el espacio: Se organizan mesas pequeñas con manteles de papel y marcadores (puedes agregar flores y pequeñas velas o cualquier otro elemento para simular el espacio de un cafe). Tip! El número de participantes en la mesa es clave para lograr la dinámica, la recomendación es de 4-5 personas.
 
