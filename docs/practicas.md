@@ -1,7 +1,7 @@
 # Prácticas de Anfitrionazgo
 En esta sección te compartiremos una guía de anfitrionazgo para las prácticas de: Cafe del Mundo (World Cafe), Espacio Abierto (OpenSpace), Cosecha colectiva de Historias, Círculo, Diseño para la acción Sabia (DAS) y Cafe ProAction.
 
-## 💫El Círculo de la palabra
+## 💫Círculo de la palabra
 El Círculo de Conversación es una metodología de diálogo basada en la práctica ancestral de reunirse en círculo para compartir sabiduría, resolver problemas y fortalecer la comunidad. Formalizado por Christina Baldwin y Ann Linnea en The Circle Way, este enfoque ayuda a generar conversaciones significativas en las que cada persona es escuchada y cada voz es valorada.
 
 "El camino del Círculo no es propiedad de nadie, pero es responsabilidad de todos los que lo practican. Es una práctica ancestral que ha sido compartida a lo largo del tiempo por comunidades en todo el mundo y requiere intención, presencia y escucha genuina." — Christina Baldwin y Ann Linnea
