@@ -18,7 +18,7 @@ El World Café fue desarrollado por Juanita Brown y David Isaacs en la década d
 👂 Escuchar juntos para descubrir patrones.
 🤝 Compartir descubrimientos colectivos.
 
-Para una referencia más profunda, se recomienda leer  el libro "The World Café: Shaping Our Futures Through Conversations That Matter" de Juanita Brown y/o el articulo ["Una guía rápida para ser anfitrión de World Cafe"] de (https://www.theworldcafe.com/wp-content/uploads/2017/11/Cafe-para-llevar.pdf.md)
+Para una referencia más profunda, se recomienda leer  el libro "The World Café: Shaping Our Futures Through Conversations That Matter" de Juanita Brown y/o el articulo [Una guía rápida para ser anfitrión de World Cafe] de (https://www.theworldcafe.com/wp-content/uploads/2017/11/Cafe-para-llevar.pdf.md)
 
 **⏳ Cuándo usar un Café del Mundo**
 
