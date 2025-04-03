@@ -57,3 +57,86 @@ El proceso de un Café del Mundo sigue estos pasos:
 👂 Escucha profunda: Fomenta una escucha atenta y sin interrupciones.
 
 El Café del Mundo es una herramienta poderosa para facilitar conversaciones transformadoras. Con una buena preparación y una pregunta inspiradora, permite generar conexiones, aprendizajes y soluciones innovadoras. ✨
+
+
+## Espacio abierto
+
+El "Espacio Abierto" (Open Space Technology) es una metodología de facilitación que permite que grupos desde cinco hasta más de dos mil personas organicen su propia agenda y trabajen en los temas que realmente les interesan. Fue desarrollado por Harrison Owen en la década de 1980 y se basa en la autogestión, la pasión y la responsabilidad. Owen tomó inspiración de los aprendizajes de la comunidad de Balamah en África, observando cómo se organizaban de manera natural para resolver problemas y tomar decisiones colectivas.
+
+Se utiliza cuando hay un tema o desafío central, pero no se sabe cuáles son las mejores preguntas ni cómo organizarlas. La metodología permite que emerjan las conversaciones y acciones más relevantes para el grupo. 
+
+Aunque Open Space Technology es una herramienta poderosa y efectiva, nunca debe usarse solo por el proceso en sí, sino para explorar preguntas relevantes para un grupo de personas.
+
+📚 Introducción
+
+Open Space Technology se basa en cuatro principios y una ley fundamental:
+
+Principios:
+
+Quienes estén presentes son las personas adecuadas.
+
+Lo que suceda es lo único que podría haber sucedido.
+
+Cuando empiece, es el momento adecuado. Cuando se acaba, se acaba.
+
+El lugar donde sucede, es el lugar correcto.
+
+La Ley de la movilidad:
+
+Si en algún momento te das cuenta de que no estás aprendiendo o contribuyendo, usa tus "dos pies" o tu forma de movilidad y ve a otro espacio donde puedas hacerlo.
+
+Para profundizar en el tema, se recomienda leer el libro Open Space Technology: A User's Guide de Harrison Owen o la [guía de Estructuras Liberadoras](https://estructurasliberadoras.com/menu-ls/open-space-technology.mp).
+
+⏳ Cuándo usar un Espacio Abierto
+
+Esta metodología es ideal cuando: se necesita innovación y co-creación en grupo, hay temas complejos sin soluciones claras, se requiere la participación activa de muchas personas, se busca fomentar la autoorganización y la autonomía y/o se desea construir comunidad y generar conexiones significativas.
+
+Suele utilizarse en conferencias, eventos de aprendizaje, diseño de estrategias, encuentros comunitarios y en cualquier espacio donde se quiera aprovechar la diversidad del grupo.
+
+🛠️ Cómo se hace un Espacio Abierto
+
+El proceso sigue estos pasos:
+
+Definir la pregunta convocante: Se establece un tema general que guía las conversaciones y el mismo se expresa en la pregunta convocante del encuentro. La misma declara lo que se desea explorar en la grupalidad.
+
+Convocar a personas vinculadas con esa pregunta, explicando el tipo de evento y la cualidad de participación que requerirá.
+
+Preparar el espacio: se deben incluir al menos los siguientes artefactos - una grilla con la cantidad de rondas y espacios disponibles (se recomienda que haya espacio para una conversación cada 5 personas), la pregunta convocante, los principios y la ley visibles en el espacio y materiales para cosechar. 
+
+Clarificar los roles: se deben visibilizar los roles: Abejas (que van de conversación en conversación, polinizando) y Mariposas (que se quedan en un mismo espacio hasta que termina).
+
+Explicar las reglas y la dinámica: Un facilitador/a introduce la pregunta convocante, los principios y la ley de la movilidad.
+
+Crear la agenda en vivo: Una vez hecha la bienvenida de las personas, los participantes proponen temas vinculados a la pregunta convocante y los escriben en papeles grandes. Luego los "vocean" (algo así como hacer un pitch de 30 segundos) y los ubican en la grilla. Este es el momento más desafiante para quienes facilitan, hay varias consideraciones que tener presentes y si las escribimos acá podríamos volver a cualquier persona loca; por eso, te recomendamos consultar con facilitadores/as con experiencia que puedan compartir retroalimentación específica para el espacio específico que estas creando.
+
+Sesiones autogestionadas: Se recuerda la importancia de la cosecha de lo que sucede en cada espacio. Se abre el espacio con la primera ronda de conversación. Cada persona elige dónde quiere participar.
+
+Cosecha colectiva: Una vez terminados los espacios de conversación, se comparten los aprendizajes y hallazgos clave y se sintetizan ideas que se han explorado. Es importante no olvidar la pregunta convocante y descubrir qué nuevas percepciones surgen en relación a ella.
+
+
+
+🏠 Organización del espacio
+
+📍 Espacio amplio y flexible: Se necesita una sala lo suficientemente grande para permitir que todos los participantes se sienten en un círculo, o en círculos concéntricos, sin estar apretados.
+
+📋 Materiales de libreria: Para que los participantes escriban sus temas, se arme la grilla y se cosechen las conversaciones.
+
+📌 Grilla/Agenda: Indica dónde se discutirá cada tema y en qué horario.
+
+🎙️ Zona de cosecha: Donde se recopilan y comparten aprendizajes.
+
+🗺️ Espacios para grupos de trabajo: Se requieren áreas de trabajo separadas para las conversaciones en profundidad.
+
+🎯 Tips and Tricks
+
+🌟 Confía en el proceso: La autoorganización puede parecer caótica al principio, pero funciona.
+
+🗣️ Anima a la participación: Todas las voces son valiosas.
+
+📝 Registra las conversaciones: Para que las ideas no se pierdan.
+
+🦶 Recuerda la Ley de los Dos Pies: Si algo no te aporta, muévete.
+
+💬 Espacio para la reflexión: Termina con un cierre para consolidar aprendizajes.
+
+El Espacio Abierto es una metodología poderosa para liberar el potencial de los grupos y permitir que emerjan las ideas y acciones más significativas. Con la actitud correcta y un buen diseño, puede transformar reuniones en experiencias impactantes. ✨
