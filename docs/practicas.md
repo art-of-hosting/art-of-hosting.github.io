@@ -115,16 +115,15 @@ _Durante la facilitación:_
 
 🗺️ Espacios para grupos de trabajo: Se requieren áreas de trabajo separadas para las conversaciones en profundidad.
 
-🎯 Tips and Tricks
 
-🌟 Confía en el proceso: La autoorganización puede parecer caótica al principio, pero funciona.
+**🎯 Tips para esta práctica**
 
-🗣️ Anima a la participación: Todas las voces son valiosas.
+🌟 Confía en el proceso: La autoorganización puede parecer caótica al principio, pero funciona. Este es el mayor desafío de facilitación, sostener la incertidumbre y el silencio, especialmente en el momento de creación colectiva de la agenda.
 
-📝 Registra las conversaciones: Para que las ideas no se pierdan.
+🗣️ Anima a la participación: Todas las voces son valiosas. Es bueno recordar que si alguien desea proponer una conversación en la grilla no necesita ser experto/a en el tema, se pueden subir preguntas, experimentos, desafíos, procesos a revisar... todo lo que contribuya a ganar claridad sobre la pregunta convocante.
 
-🦶 Recuerda la Ley de los Dos Pies: Si algo no te aporta, muévete.
+📝 Registra las conversaciones: Para que las ideas no se pierdan. Es clave que quien propone espacios esté en el lugar y hora correcto para sostenerlos y, además, se asegure que alguien coseche los hallazgos.
 
-💬 Espacio para la reflexión: Termina con un cierre para consolidar aprendizajes.
+💬 Espacio para la reflexión: Termina con un cierre para consolidar aprendizajes vinculados con la pregunta convocante. Esta práctica sirve para explorar temas complejos, si no se realiza una reflexión y cosecha de los hallazgos, se pierde la oportunidad de aprender.
 
 El Espacio Abierto es una metodología poderosa para liberar el potencial de los grupos y permitir que emerjan las ideas y acciones más significativas. Con la actitud correcta y un buen diseño, puede transformar reuniones en experiencias impactantes. ✨
