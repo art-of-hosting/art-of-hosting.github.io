@@ -65,57 +65,44 @@ El "Espacio Abierto" (Open Space Technology) es una metodología de facilitació
 
 Se utiliza cuando hay un tema o desafío central, pero no se sabe cuáles son las mejores preguntas ni cómo organizarlas. La metodología permite que emerjan las conversaciones y acciones más relevantes para el grupo. 
 
-Aunque Open Space Technology es una herramienta poderosa y efectiva, nunca debe usarse solo por el proceso en sí, sino para explorar preguntas relevantes para un grupo de personas.
-
-📚 Introducción
+**📚 Introducción**
 
 Open Space Technology se basa en cuatro principios y una ley fundamental:
 
-Principios:
+Principios: Quienes estén presentes son las personas adecuadas, Lo que suceda es lo único que podría haber sucedido, Cuando empiece, es el momento adecuado y Cuando se acaba, se acaba y El lugar donde sucede, es el lugar correcto.
 
-Quienes estén presentes son las personas adecuadas.
-
-Lo que suceda es lo único que podría haber sucedido.
-
-Cuando empiece, es el momento adecuado. Cuando se acaba, se acaba.
-
-El lugar donde sucede, es el lugar correcto.
-
-La Ley de la movilidad:
-
-Si en algún momento te das cuenta de que no estás aprendiendo o contribuyendo, usa tus "dos pies" o tu forma de movilidad y ve a otro espacio donde puedas hacerlo.
+La Ley de la movilidad: Si en algún momento te das cuenta de que no estás aprendiendo o contribuyendo, usa tus "dos pies" o tu forma de movilidad y ve a otro espacio donde puedas hacerlo.
 
 Para profundizar en el tema, se recomienda leer el libro Open Space Technology: A User's Guide de Harrison Owen o la [guía de Estructuras Liberadoras](https://estructurasliberadoras.com/menu-ls/open-space-technology.mp).
 
-⏳ Cuándo usar un Espacio Abierto
+**⏳ Cuándo usar un Espacio Abierto**
 
-Esta metodología es ideal cuando: se necesita innovación y co-creación en grupo, hay temas complejos sin soluciones claras, se requiere la participación activa de muchas personas, se busca fomentar la autoorganización y la autonomía y/o se desea construir comunidad y generar conexiones significativas.
+Esta metodología es ideal cuando: se necesita innovación y co-creación en grupo, hay temas complejos sin soluciones claras, se requiere la participación activa de muchas personas, se busca fomentar la autoorganización y la autonomía y/o se desea construir comunidad y generar conexiones significativas. Suele utilizarse en conferencias, eventos de aprendizaje, diseño de estrategias, encuentros comunitarios y en cualquier espacio donde se quiera aprovechar la diversidad del grupo.
 
-Suele utilizarse en conferencias, eventos de aprendizaje, diseño de estrategias, encuentros comunitarios y en cualquier espacio donde se quiera aprovechar la diversidad del grupo.
-
-🛠️ Cómo se hace un Espacio Abierto
+**🛠️ Cómo se hace un Espacio Abierto**
 
 El proceso sigue estos pasos:
 
-Definir la pregunta convocante: Se establece un tema general que guía las conversaciones y el mismo se expresa en la pregunta convocante del encuentro. La misma declara lo que se desea explorar en la grupalidad.
+_Previo a la facilitación:_
+👉Definir la pregunta convocante: Se establece un tema general que guía las conversaciones y el mismo se expresa en la pregunta convocante del encuentro. La misma declara lo que se desea explorar en la grupalidad.
 
-Convocar a personas vinculadas con esa pregunta, explicando el tipo de evento y la cualidad de participación que requerirá.
+👉Convocar a personas vinculadas con esa pregunta, explicando el tipo de evento y la cualidad de participación que requerirá.
 
-Preparar el espacio: se deben incluir al menos los siguientes artefactos - una grilla con la cantidad de rondas y espacios disponibles (se recomienda que haya espacio para una conversación cada 5 personas), la pregunta convocante, los principios y la ley visibles en el espacio y materiales para cosechar. 
+👉Preparar el espacio: se deben incluir al menos los siguientes artefactos - una grilla con la cantidad de rondas y espacios disponibles (se recomienda que haya espacio para una conversación cada 5 personas), la pregunta convocante, los principios y la ley visibles en el espacio y materiales para cosechar. Además, se deben visibilizar los roles: Abejas (que van de conversación en conversación, polinizando) y Mariposas (que se quedan en un mismo espacio hasta que termina).
 
-Clarificar los roles: se deben visibilizar los roles: Abejas (que van de conversación en conversación, polinizando) y Mariposas (que se quedan en un mismo espacio hasta que termina).
+_Durante la facilitación:_
 
-Explicar las reglas y la dinámica: Un facilitador/a introduce la pregunta convocante, los principios y la ley de la movilidad.
+1. Dar la bienvenida, explicar las reglas y la dinámica: Un facilitador/a introduce la pregunta convocante, los principios y la ley de la movilidad.
 
-Crear la agenda en vivo: Una vez hecha la bienvenida de las personas, los participantes proponen temas vinculados a la pregunta convocante y los escriben en papeles grandes. Luego los "vocean" (algo así como hacer un pitch de 30 segundos) y los ubican en la grilla. Este es el momento más desafiante para quienes facilitan, hay varias consideraciones que tener presentes y si las escribimos acá podríamos volver a cualquier persona loca; por eso, te recomendamos consultar con facilitadores/as con experiencia que puedan compartir retroalimentación específica para el espacio específico que estas creando.
+2. Crear la agenda en vivo: Una vez hecha la bienvenida de las personas, los participantes proponen temas vinculados a la pregunta convocante y los escriben en papeles grandes. Luego los "vocean" (algo así como hacer un pitch de 30 segundos) y los ubican en la grilla. Este es el momento más desafiante para quienes facilitan, hay varias consideraciones que tener presentes y si las escribimos acá podríamos volver a cualquier persona loca; por eso, te recomendamos consultar con facilitadores/as con experiencia que puedan compartir retroalimentación específica para el espacio específico que estas creando.
 
-Sesiones autogestionadas: Se recuerda la importancia de la cosecha de lo que sucede en cada espacio. Se abre el espacio con la primera ronda de conversación. Cada persona elige dónde quiere participar.
+3. Sesiones autogestionadas: Se recuerda la importancia de la cosecha de lo que sucede en cada espacio. Se abre el espacio con la primera ronda de conversación. Cada persona elige dónde quiere participar.
 
-Cosecha colectiva: Una vez terminados los espacios de conversación, se comparten los aprendizajes y hallazgos clave y se sintetizan ideas que se han explorado. Es importante no olvidar la pregunta convocante y descubrir qué nuevas percepciones surgen en relación a ella.
+4. Cosecha colectiva: Una vez terminados los espacios de conversación, se comparten los aprendizajes y hallazgos clave y se sintetizan ideas que se han explorado. Es importante no olvidar la pregunta convocante y descubrir qué nuevas percepciones surgen en relación a ella.
 
 
 
-🏠 Organización del espacio
+**🏠 Organización del espacio**
 
 📍 Espacio amplio y flexible: Se necesita una sala lo suficientemente grande para permitir que todos los participantes se sienten en un círculo, o en círculos concéntricos, sin estar apretados.
 
