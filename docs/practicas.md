@@ -183,3 +183,66 @@ _Durante la facilitación:_
 💬 Espacio para la reflexión: Termina con un cierre para consolidar aprendizajes vinculados con la pregunta convocante. Esta práctica sirve para explorar temas complejos, si no se realiza una reflexión y cosecha de los hallazgos, se pierde la oportunidad de aprender.
 
 El Espacio Abierto es una metodología poderosa para liberar el potencial de los grupos y permitir que emerjan las ideas y acciones más significativas. Con la actitud correcta y un buen diseño, puede transformar reuniones en experiencias impactantes. ✨
+
+
+## Cosecha colectiva de historias
+
+La Cosecha Colectiva de Historias es una metodología que invita a las personas a compartir relatos personales o comunitarios en torno a una temática común. Esta práctica permite reconocer patrones, aprender desde la experiencia y fortalecer los lazos entre quienes participan. 
+
+Toma inspiración de tradiciones orales ancestrales, de la educación popular y del storytelling como herramienta de cambio considerando que las historias nos conectan con lo que más valoramos, nos ayudan a recordar quiénes somos y nos invitan a imaginar nuevos futuros posibles. Cuando cosechamos historias juntas, cultivamos comunidad y sentido.
+
+
+**📚 Introducción**
+
+La cosecha de historias no se trata solo de recopilar información, sino de abrir un espacio de confianza y escucha para que emerjan los saberes que viven en las personas y en sus trayectorias. Usamos la palabra "cosecha" porque evoca la acción de recoger los frutos de lo que emerge colectivamente.
+
+
+**⏳ Cuándo usar esta práctica**
+
+Esta metodología es ideal cuando: se desea generar sentido colectivo en torno a una experiencia vivida, se quiere hacer visible el conocimiento que ya está presente en una comunidad, se busca fortalecer la identidad y memoria de un grupo o territorio y/o se quiere inspirar nuevas acciones a partir de lo aprendido.
+
+También es muy útil cuando se quiere crear un campo de aprendizaje rico que invite a comprender cómo llegamos a donde estamos ahora, reconectar con los aprendizajes del sistema o simplemente facilitar conexiones y entendimientos profundos entre quienes participan. Puede ser usada con regularidad para hacer inventarios, capturar aprendizajes y reenfocar direcciones.
+
+
+**🛠️ Cómo se hace una Cosecha Colectiva de Historias**
+
+1. Define la intención: Define qué tipo de historias se desean cosechar (de aprendizaje, de transformación, de resistencia, de colaboración, etc.) y formula una pregunta convocante que invite a compartir (por ejemplo: “¿Puedes contar una historia en la que sentiste que algo importante cambió para ti o para tu comunidad?”). Elige una cantidad apropiada de historias y pide a cuentistas que preparen sus historias.
+
+2. Define los arcos de escucha: Vas a necesitar por lo menos una persona cosechando desde las perspectivas elegidas y más de una puede cosechar desde la misma perspectiva simultáneamente. Aquí hay unas perspectivas potenciales para la Cosecha Colectiva de Historias:
+
+📖 Arco narrativo: El hilo de la historia —personas, eventos, etapas—. También tal vez se cosechan hechos, emociones y valores que son parte de la historia. 
+
+🔄 Arco de proceso: ¿Qué intervenciones, procesos, aplicaciones y descubrimientos pasaron? 
+
+🌟 Momentos claves: ¿Cuándo pasaron los puntos de descubrimiento y/o aprendizaje importantes en la historia? 
+
+❓ Preguntas: ¿Qué preguntas surgen desde esta historia que podríamos preguntar de cualquier sistema? 
+
+✨ Sincronía y magia: ¿Qué pasó durante esta historia que indicó que hubo sincronía o magia? 
+
+🧭 Principios: ¿Cuáles principios de trabajo pueden ser identificados desde esta historia? ¿Qué aprendemos de prácticas participativas? ¿Cuáles de los principios de sistemas vivos complejos fueron reflejados en esta historia? 
+
+🌍 Cambios sistémicos: ¿Cómo cambió el sistema en el transcurso de la historia? ¿Puedes nombrar la historia o la metáfora en la que empezó el sistema? ¿Si hubo un cambio, cómo se transformó esta historia o metáfora al final? 
+
+3. Brinda las consignas de trabajo : Enmarca la sesión, haz una invitación pública a cuentistas y pide un breve resumen de sus historias. Pide que los/as participantes se agrupen alrededor de la historia que les interesa. Luego, explica los arcos de escucha y asigna los roles: testigos (escuchas de cada arco) y, si es posible, anfitriones/as para cada grupo. Establece claramente cuánto tiempo hay para contar cada historia.
+
+4. Cosecha en grupos pequeños: Brinda tiempo para que el cuentista comparta su historia y las personas escuchen, cosechen y le devuelvan lo cosechado. Finalmente, el/la cuentista reflexiona sobre lo aprendido al escuchar las cosechas.
+
+5. Cosecha colectiva: Reúnan nuevamente al grupo completo, agrupa a las personas por arcos de cosecha. Formula una meta-pregunta de cosecha (ej. “¿Cuáles son las condiciones para integrar el liderazgo participativo exitosamente en nuestro contexto?”). Después regresen al grupo grande y compartan aprendizajes. 
+
+6. Cierre de la sesión: Agradece a cuentistas y cosechadores/as. Explica qué pasará con la cosecha generada.
+
+
+**🧰 Materiales y montaje**
+
+Círculo grande con sillas para los momentos grupales 🪑
+
+Espacios separados para los grupos pequeños 🔊
+
+Señalización (números/letras para las historias) 🔠
+
+Material de cosecha: marcadores, rotafolios, hojas, lápices ✍️🖍️📄
+
+Opcional: equipo de grabación de audio/video y para fotos 📷🎤
+
+Si tienen en su grupo personas con talentos en facilitación gráfica, poesía, música, mapas mentales, arte, etc., ¡invítalas a cosechar en esas formas! Le agregan belleza, diversidad y gozo al proceso. 🎶🎨🖌️
