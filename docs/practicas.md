@@ -185,7 +185,7 @@ _Durante la facilitación:_
 El Espacio Abierto es una metodología poderosa para liberar el potencial de los grupos y permitir que emerjan las ideas y acciones más significativas. Con la actitud correcta y un buen diseño, puede transformar reuniones en experiencias impactantes. ✨
 
 
-## Cosecha colectiva de historias
+## 🌷Cosecha colectiva de historias
 
 La Cosecha Colectiva de Historias es una metodología que invita a las personas a compartir relatos personales o comunitarios en torno a una temática común. Esta práctica permite reconocer patrones, aprender desde la experiencia y fortalecer los lazos entre quienes participan. 
 
@@ -206,6 +206,8 @@ También es muy útil cuando se quiere crear un campo de aprendizaje rico que in
 
 **🛠️ Cómo se hace una Cosecha Colectiva de Historias**
 
+_Antes de la sesión_
+
 1. Define la intención: Define qué tipo de historias se desean cosechar (de aprendizaje, de transformación, de resistencia, de colaboración, etc.) y formula una pregunta convocante que invite a compartir (por ejemplo: “¿Puedes contar una historia en la que sentiste que algo importante cambió para ti o para tu comunidad?”). Elige una cantidad apropiada de historias y pide a cuentistas que preparen sus historias.
 
 2. Define los arcos de escucha: Vas a necesitar por lo menos una persona cosechando desde las perspectivas elegidas y más de una puede cosechar desde la misma perspectiva simultáneamente. Aquí hay unas perspectivas potenciales para la Cosecha Colectiva de Historias:
@@ -223,6 +225,8 @@ También es muy útil cuando se quiere crear un campo de aprendizaje rico que in
 🧭 Principios: ¿Cuáles principios de trabajo pueden ser identificados desde esta historia? ¿Qué aprendemos de prácticas participativas? ¿Cuáles de los principios de sistemas vivos complejos fueron reflejados en esta historia? 
 
 🌍 Cambios sistémicos: ¿Cómo cambió el sistema en el transcurso de la historia? ¿Puedes nombrar la historia o la metáfora en la que empezó el sistema? ¿Si hubo un cambio, cómo se transformó esta historia o metáfora al final? 
+
+_Durante la sesión_
 
 3. Brinda las consignas de trabajo : Enmarca la sesión, haz una invitación pública a cuentistas y pide un breve resumen de sus historias. Pide que los/as participantes se agrupen alrededor de la historia que les interesa. Luego, explica los arcos de escucha y asigna los roles: testigos (escuchas de cada arco) y, si es posible, anfitriones/as para cada grupo. Establece claramente cuánto tiempo hay para contar cada historia.
 
