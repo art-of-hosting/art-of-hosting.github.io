@@ -196,6 +196,9 @@ Toma inspiración de tradiciones orales ancestrales, de la educación popular y 
 
 La cosecha de historias no se trata solo de recopilar información, sino de abrir un espacio de confianza y escucha para que emerjan los saberes que viven en las personas y en sus trayectorias. Usamos la palabra "cosecha" porque evoca la acción de recoger los frutos de lo que emerge colectivamente.
 
+La práctica de Cosecha Colectiva de Historias no tiene un único autor o autora, ya que es una herramienta que ha evolucionado de manera colaborativa integrando elementos de diversas tradiciones. Podes leer más sobre la cosecha colectiva de historias en la [Guía “Collective Story Harvest”](https://storage.ning.com/topology/rest/1.0/file/get/964714593?profile=original)
+
+
 
 **⏳ Cuándo usar esta práctica**
 
