@@ -253,3 +253,66 @@ Material de cosecha: marcadores, rotafolios, hojas, lápices ✍️🖍️📄
 Opcional: equipo de grabación de audio/video y para fotos 📷🎤
 
 Si tienen en su grupo personas con talentos en facilitación gráfica, poesía, música, mapas mentales, arte, etc., ¡invítalas a cosechar en esas formas! Le agregan belleza, diversidad y gozo al proceso. 🎶🎨🖌️
+
+
+## 🪃 Cafe Pro-acción
+
+El Café Pro Action es una metodología participativa diseñada para ayudar a emprendedores, innovadores y agentes de cambio a obtener apoyo concreto para sus proyectos. Combina elementos de World Café y trabajo colaborativo, permitiendo que las personas reciban ideas, consejos y conexiones valiosas de una comunidad comprometida.
+
+
+**📚 Introducción**
+
+Esta metodología se basa en la inteligencia colectiva y en la acción concreta. En un Café Pro Action, los participantes presentan sus proyectos y reciben retroalimentación estructurada en varias rondas de conversación, lo que permite profundizar en sus necesidades y definir los próximos pasos.
+
+
+**⏳ Cuándo usar esta práctica**
+
+El Café Pro Action es ideal cuando se quiere avanzar en proyectos en desarrollo con el apoyo de una comunidad diversa, se buscan nuevas perspectivas y soluciones creativas, se desea fomentar la colaboración entre personas con diferentes experiencias y conocimientos y/o se necesita claridad sobre los próximos pasos de un proyecto o iniciativa.
+
+
+**🛠️ Procedimiento del Café Pro Action**
+
+🔄 Círculo de apertura: Comienza con una ronda rápida para conectar con el propósito de la sesión y entre las personas presentes. Si la ronda de apertura ya tuvo lugar como parte de otro proceso, se puede ir directamente a la construcción de la agenda. Se recomienda contar con 2 a 3 horas y media.
+
+📌 Presentación de proyectos: Invita a los participantes que tienen un proyecto o desafío a presentarlo en voz alta y solicitar el tipo de ayuda que necesitan para avanzar. Los líderes de proyecto escriben el nombre de su iniciativa en la agenda y se asignan a una mesa de café numerada. Para calcular cuántos proyectos pueden presentarse, divide el número de participantes por cuatro. Ejemplo: con 40 personas, un máximo de 10 proyectos. Si hay menos proyectos, se pueden agregar sillas a las mesas, pero no más de 5 por mesa. Los participantes que no presentan proyectos actuarán como contribuyentes, colaborando en 3 proyectos distintos a lo largo de la sesión.
+
+🏛️ Dividirse en grupos de trabajo: Una vez que la agenda está lista, los líderes de proyecto se sientan en su mesa asignada y asumen el rol de anfitrión de mesa. Los contribuyentes eligen los proyectos en los que quieren participar y deciden el orden en que rotarán entre las mesas. Se realizan tres rondas de conversaciones de 20 a 30 minutos en cada mesa.
+
+🔄 Rondas de conversación: Cada ronda tiene una pregunta guía que ayuda a estructurar el diálogo:
+
+📍 Ronda 1: ¿Cuál es la búsqueda detrás de este proyecto/pregunta?
+Se profundiza en la necesidad y propósito del proyecto.
+
+📍 Ronda 2: ¿Dónde está el proyecto hoy? ¿Qué está faltando?
+Se explora qué elementos podrían fortalecer la iniciativa.
+
+⏳ Reflexión personal (20-25 min antes de la tercera ronda): Los líderes de proyecto reflexionan sobre: ¿Qué estoy aprendiendo sobre mí? ¿Qué estoy aprendiendo sobre mi proyecto? ¿Qué próximos pasos daré? ¿Qué ayuda necesito todavía?.
+Los contribuyentes pueden hacer una reflexión similar para profundizar su experiencia.
+
+📍 Ronda 3: Compartir aprendizajes y recibir apoyo complementario. Los emprendedores presentan sus aprendizajes y próximos pasos a tres nuevos contribuyentes, quienes ofrecen comentarios y posibles apoyos adicionales.
+
+_Entre cada ronda, se recomienda hacer pequeñas pausas para permitir que las personas se relajen y continúen participando con energía._
+
+🌱 Cosecha y cierre: Todos vuelven a reunirse en círculo. Se invita a cada emprendedor a responder: ¿De qué estoy agradecido?¿Cuáles son mis próximos pasos?. Si hay tiempo, el grupo puede reflexionar sobre: ¿Qué aplicaciones vemos para practicar PAC en nuestros contextos?. Cierra con un gesto colectivo que valore el trabajo realizado y las ayudas ofrecidas. 
+
+
+**🏠 Organización del espacio**
+
+🎨 Crear un ambiente acogedor: luz cálida, materiales visuales, música relajante.
+
+🪑 Disposición en mesas: cada mesa representa un proyecto.
+
+📝 Materiales: rotafolios, marcadores, post-its, papel kraft, grabadoras (opcional).
+
+
+**🎯 Tips para facilitar un Café Pro Action**
+
+💬 Enfatizar la claridad en la presentación de proyectos.
+
+🎤 Fomentar la escucha activa y las preguntas poderosas.
+
+🔄 Promover diversidad de perspectivas entre los contribuyentes.
+
+🌍 Animar a la colaboración más allá del evento.
+
+El Café Pro Action transforma ideas en acción a través del poder de la comunidad. ¡Manos a la obra! 🚀✨
