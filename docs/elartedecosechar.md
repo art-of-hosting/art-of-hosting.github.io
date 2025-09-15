@@ -2,8 +2,14 @@
 
 🧭 _¿Qué es la cosecha?_
 
-La cosecha es una práctica central en Art of Hosting. Es el acto de recoger, dar forma y compartir lo que emergió en una conversación significativa. Es el proceso de acompañar la divergencia–convergencia para hacer conscientes los aprendizajes, construir entendimiento común y aclarar próximos pasos.
+La cosecha es una práctica central en Art of Hosting. Es el acto de recoger, dar forma y compartir lo que emergió en una conversación significativa. Es el proceso de acompañar el proceso de divergencia–convergencia para hacer conscientes los aprendizajes, construir entendimiento común y aclarar próximos pasos.
 No se trata sólo de guardar información, sino de darle sentido, hacerla visible y ponerla al servicio del propósito colectivo.
+Es importante mencionar que si bien la mayoría de las veces realizamos cosechas gráficas o de registro, existe la posibilidad de cosechar con fotos, videos, grabaciones, memes, pasos de danza, pinturas, canciones y cualquier otra técnica.
+
+Además, es importante considerar que para cualquier proceso o encuentro, la cosecha se diseña considerando cuatro cuadrantes:
+
+<img width="893" height="668" alt="image" src="https://github.com/user-attachments/assets/52d60ad6-fab8-4df9-b0b6-a27e23c9b00a" />
+
 
 🌾 Cosecha Inicial: 8 Pasos para una Buena Cosecha de Conversaciones 
 <img width="727" height="652" alt="image" src="https://github.com/user-attachments/assets/ae0520b6-69a0-45d4-a987-d2a8851b8100" />
@@ -48,10 +54,10 @@ Teniendo en cuenta los marcos de referencia del liderazgo participativo, y de la
 
 _🌟 Sugerencias prácticas_
 
-• 	Antes del encuentro/proceso: definir qué tipo de cosecha se necesita y quién la realizará.
-• 	Durante el encuentro: invitar a los participantes a contribuir con frases, imágenes, ideas que les resuenen.
-• 	Después del encuentro: revisar, sintetizar y dar forma a la cosecha con sensibilidad y creatividad.
-• 	Al compartirla: acompañarla con una breve introducción que conecte con el propósito y contexto.
+**Antes del encuentro/proceso:** definir qué tipo de cosecha se necesita y quién la realizará.
+**Durante el encuentro** invitar a los participantes a contribuir con frases, imágenes, ideas que les resuenen. Tener apertura al emergente y habilitar todas las formas de cosecha que emerjan en el hacer.
+**Después del encuentro:** revisar, sintetizar y dar forma a la cosecha con sensibilidad y creatividad.
+**Al compartirla:** acompañarla con una breve introducción que conecte con el propósito y contexto.
 
 
 _Llaves que aportan valor para una cosecha estratégica_
