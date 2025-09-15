@@ -140,6 +140,9 @@ Propósito: Sintetizar, tomar decisiones, cerrar con sentido
 Preguntas guía: ¿Qué es lo esencial que queremos llevarnos?¿Qué decisión podemos tomar ahora con lo que tenemos?
 Herramientas sugeridas: ProAction Café, Métodos de priorización, Cierre colectivo, Cosecha visual
 
+**#Bonus ¿Qué pasa si un proceso de anfitrionaje está compuesto por más de un encuentro?**
+El diseño de la experiencia es la clave. Dentro de un mismo proceso pueden darse múltiples momentos de divergencia y convergencia. Es importante tener en cuenta que, si generamos divergencia sin propiciar una convergencia a tiempo, esto puede producir en los participantes sensaciones de incomodidad, incluso físicas. Por eso, debemos aprender a usar estas transiciones de manera intencional, poniéndolas al servicio del proceso y de los objetivos que buscamos alcanzar.
+
 
 
 ## 🌷 Doble Bucle
