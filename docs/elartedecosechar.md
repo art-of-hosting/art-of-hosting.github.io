@@ -79,4 +79,4 @@ _🌟 Llaves que aportan valor para una cosecha estratégica_
 
 
 
-👍 Más info sobre cosecha [acá](https://padlet.com/vreg/biblioteca-art-of-hosting-profundizaci-n-t3hx53qjdc2xovx2.md)
+👍 Más info [acá](https://padlet.com/vreg/biblioteca-art-of-hosting-profundizaci-n-t3hx53qjdc2xovx2.md)
