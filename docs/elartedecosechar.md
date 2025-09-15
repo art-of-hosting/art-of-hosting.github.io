@@ -19,7 +19,8 @@ Además, es importante considerar que para cualquier proceso o encuentro, la cos
 **- Cosecha grupal–intangible:** el entendimiento común, la confianza y las nuevas narrativas que se tejen en el grupo, que pueden materializarse en elementos que capten su esencia comos son una canción adoptada como lema, una broma compartida, un relato identitario o un sentido renovado de pertenencia.
 
 
-🌾 Cosecha Inicial: 8 Pasos para una Buena Cosecha de Conversaciones 
+
+_🌾 Cosecha Inicial: 8 Pasos para una Buena Cosecha de Conversaciones _
 <img width="727" height="652" alt="image" src="https://github.com/user-attachments/assets/ae0520b6-69a0-45d4-a987-d2a8851b8100" />
 
 
