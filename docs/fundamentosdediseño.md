@@ -28,7 +28,7 @@ Porque “la calidad de nuestras preguntas determina la calidad de nuestras conv
 Las preguntas poderosas: Invitan a explorar lo desconocido, revelan supuestos ocultos, generan movimiento y acción y llegan a lo que realmente importa.
 Podríamos decir que viajan bien: se expanden en redes y comunidades
 
-🛠️ Entonces … ¿Qué hace poderosa a una pregunta?
+🛠️ _Entonces … ¿Qué hace poderosa a una pregunta?_
 
 Que sea…
 
