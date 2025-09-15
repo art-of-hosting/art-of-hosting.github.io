@@ -10,6 +10,14 @@ Además, es importante considerar que para cualquier proceso o encuentro, la cos
 
 <img width="893" height="668" alt="image" src="https://github.com/user-attachments/assets/52d60ad6-fab8-4df9-b0b6-a27e23c9b00a" />
 
+**- Cosecha individual–tangible:** lo que cada persona registra de manera concreta para recordar y profundizar en su aprendizaje, como apuntes en un cuaderno, un dibujo personal, una acción concreta que se pone a sí mismo, un libro que compra para leer, una frase que lo/a inspiró, etc.
+
+**- Cosecha individual–intangible:** lo que cada participante se lleva consigo en forma de reflexiones, emociones, intuiciones, nuevas perspectivas o nuevas relaciones, por ejemplo una nueva claridad sobre su propósito o un insight que transforma su mirada. Si bien es imposible captar en lo concreto todo eso, podemos diseñar una cosecha que visibilice esto intangible.
+
+**- Cosecha grupal–tangible:** los registros colectivos que brindan mayor claridad en el proceso y dejan huella visible de lo vivido como un mural, un acta común, un video, una obra plástica hecha en conjunto o un mapa de ideas.
+
+**- Cosecha grupal–intangible:** el entendimiento común, la confianza y las nuevas narrativas que se tejen en el grupo, que pueden materializarse en elementos que capten su esencia comos son una canción adoptada como lema, una broma compartida, un relato identitario o un sentido renovado de pertenencia.
+
 
 🌾 Cosecha Inicial: 8 Pasos para una Buena Cosecha de Conversaciones 
 <img width="727" height="652" alt="image" src="https://github.com/user-attachments/assets/ae0520b6-69a0-45d4-a987-d2a8851b8100" />
