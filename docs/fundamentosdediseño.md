@@ -51,6 +51,7 @@ Que sea…
 ✅Toca lo esencial y Conecta con lo que realmente importa
 
 
+
 🌱 _Ejemplos de preguntas poderosas_
 
 Para abrir conversaciones:
@@ -66,6 +67,7 @@ Para profundizar:
 Para avanzar:
 ¿Qué sería posible si el éxito estuviera garantizado?
 ¿Qué pasos podemos dar juntos desde aquí?
+
 
 
 🎨 _Sugerencias_
