@@ -1,4 +1,4 @@
-# El arte de anfitrionar y cosechar las conversaciones que importan (Art of Hosting)
+# El arte de anfitrionar y cosechar
 El Arte de anfitrionar y cosechar conversaciones que importan –conocido en inglés como Art of Hosting- está diseñado para incrementar el nivel de participación en nuestros equipos; implementando prácticas que promueven la toma de decisiones efectivas, la transformación de conflictos y el sentido de pertenencia para responder adecuadamente a oportunidades y desafíos colectivos.
 
 Sobre la afirmación de que habitamos un mundo que no es “blanco o negro” sino que presenta matices. Desde esta práctica consideramos que necesitamos dialogar de maneras que nos permitan habitar la ambigüedad y sostener opuestos o paradojas (caos y orden, individuo y comunidad, solrar y conservar, etc).
