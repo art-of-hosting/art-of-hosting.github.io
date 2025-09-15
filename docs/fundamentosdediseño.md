@@ -84,6 +84,122 @@ Este enfoque convierte a las preguntas en semillas de transformación. En Art of
 
 **Recordá:** Gran parte del impacto que generemos se siembra en la fase de diseño. Pensar una buena pregunta puede ser un proceso que requiera tiempo, pero es clave que el equipo de anfitriones pueda dedicarle el tiempo necesario.
 
+Más información [acá](https://www.sparc.bc.ca/wp-content/uploads/2020/11/the-art-of-powerful-questions.pdf)
+
+
+## 💎Diamante de la participación
+
+El Diamante de la Participación, desarrollado por Sam Kaner, es una herramienta clave para comprender los ritmos internos de los procesos participativos. Propone tres momentos que suelen atravesar los grupos: divergencia, emergencia y convergencia. Reconocer en qué fase se encuentra un grupo permite al equipo facilitador acompañar con mayor claridad, sensibilidad y eficacia.
+
+_🌬️ Una metáfora viva: El proceso grupal como una respiración._
+- Divergencia es la inhalación profunda: apertura, oxigenación, expansión.
+- Convergencia es la exhalación enfocada: síntesis, canalización, decisión.
+Entre ambas, el momento emergente es la zona de crujido, donde se integran tensiones y posibilidades.
+
+_🟢 Momento Divergente: Apertura y Exploración_
+Es una fase de búsqueda, donde aún no hay objetivos definidos.
+Lo esencial es contar con un propósito compartido que oriente la exploración.
+Se caracteriza por la no linealidad, la diversidad de voces y el caos creativo.
+Requiere tiempo y paciencia para que emerjan ideas nuevas.
+Cerrar esta fase demasiado pronto puede inhibir la innovación.
+🔹 Rol del facilitador: sostener la apertura, hacer preguntas amplias, evitar apresurar conclusiones.
+
+_🟡 Momento Emergente: Zona de Crujido_
+Es el punto de máxima tensión entre ideas divergentes.
+Puede sentirse incómodo, desordenado o desafiante, pero es fértil.
+Aquí se integran perspectivas, se amplía la comprensión y pueden emerger soluciones inesperadas.
+Requiere escucha profunda, contención emocional y valentía para sostener la incomodidad.
+🔹 Rol del facilitador: cuidar el espacio, facilitar la integración, sostener el proceso sin forzar cierre.
+
+_🔴 Momento Convergente: Síntesis y Acción_
+Es una fase estructurada y orientada a resultados.
+Se enfoca en evaluar alternativas, ordenar ideas y tomar decisiones.
+Generalmente está sujeta a limitaciones de tiempo y requiere claridad metodológica.
+El pensamiento convergente busca priorizar, cerrar y avanzar.
+🔹 Rol del facilitador: guiar hacia conclusiones, facilitar acuerdos, organizar la información.
+
+Reconocer estos tres momentos permite diseñar encuentros más conscientes y efectivos. Cada fase tiene su propio ritmo, necesidades y desafíos. El arte del facilitador está en leer el momento, acompañar con presencia, y ofrecer las prácticas adecuadas para que el grupo avance con sentido.
+
+<img width="785" height="467" alt="image" src="https://github.com/user-attachments/assets/1c020c6f-1612-4d45-9b42-3686a9908fae" />
+
+
+Basada en el Diamante de la Participación para la generación de encuentros participativos, les compartimos una guía de preguntas y herramientas para cada una de las fases.
+
+**1. 🌱 Fase Divergente – Abrir el espacio**
+Propósito: Explorar múltiples voces, ampliar perspectivas, sembrar preguntas
+Preguntas guía: ¿Qué está queriendo emerger aquí?¿Qué voces aún no han sido escuchadas?
+Herramientas sugeridas:  World Café, Círculo de apertura, Preguntas poderosas
+
+**2. 🔥 Fase Emergente – Zona de crujido**
+Propósito: Integrar tensiones, sostener la incomodidad, permitir que surja lo nuevo
+Preguntas guía: ¿Qué ideas pueden convivir aunque parezcan opuestas?¿Qué necesitamos sostener para que algo nuevo aparezca?
+Herramientas sugeridas: Círculo de la conversación, Espacios de silencio, Cosecha en tiempo real, Preguntas reflexivas
+
+**3. 🎯 Fase Convergente – Avanzar con claridad**
+Propósito: Sintetizar, tomar decisiones, cerrar con sentido
+Preguntas guía: ¿Qué es lo esencial que queremos llevarnos?¿Qué decisión podemos tomar ahora con lo que tenemos?
+Herramientas sugeridas: ProAction Café, Métodos de priorización, Cierre colectivo, Cosecha visual
+
+
+
+## 🌷 Doble Bucle
+
+✨ _¿Qué es el Doble Bucle?_
+
+El Doble Bucle es una metáfora visual y conceptual para comprender cómo emergen nuevas formas de organización social, cultural o económica dentro de un sistema que se encuentra en declive. En lugar de ver el cambio como una simple sustitución (lo viejo muere y lo nuevo nace), el modelo muestra un proceso simultáneo y entrelazado. El modelo fue creado por Berkana Institute (Libro Wheatley, M. & Frieze, D. (2006). Using Emergence to Take Social Innovations to Scale. Berkana Institute).
+
+El modelo describe cómo los sistemas sociales atraviesan transiciones profundas, mostrando cómo lo nuevo emerge dentro de lo viejo hasta que logra sostenerse por sí mismo. 
+
+- **Primer bucle (Bucle de lo establecido):** representa el sistema actual dominante, que se ha vuelto insostenible y empieza a entrar en crisis.
+
+- **Segundo bucle (Bucle emergente):** representa las nuevas prácticas, innovaciones y formas de organización que comienzan como “márgenes” o iniciativas pequeñas, pero que con el tiempo crecen y se fortalecen.
+  
+La intersección de ambos bucles es el espacio de transición, donde lo viejo declina y lo nuevo todavía es frágil.
+
+<img width="775" height="505" alt="image" src="https://github.com/user-attachments/assets/71fd0f1a-f073-46cb-9539-364aa53a173a" />
+
+_Imagen disponible en www.berkana.org_
+
+
+🌱 _Principios clave para facilitar_
+
+- Lo viejo y lo nuevo coexisten: no hay un corte abrupto; se trata de una superposición de tiempos y lógicas.
+
+- El poder de lo pequeño: lo emergente comienza en comunidades, redes locales o prácticas alternativas que parecen marginales, pero contienen la semilla del futuro.
+
+- Conexión y visibilidad: el nuevo bucle necesita redes de apoyo, visibilización y legitimidad para consolidarse.
+
+- El arte del “dejar ir”: lo viejo todavía tiene valor, pero requiere soltar rigideces y reconocer su declive.
+
+
+🎨 _Aplicación en diseño de conversaciones_
+
+**Paso 1. Nombrar el bucle viejo**
+¿Qué instituciones, prácticas o estructuras representan lo dominante en este sistema?
+¿Qué logros históricos debemos reconocer?
+¿Qué síntomas de agotamiento aparecen (ineficacia, exclusión, pérdida de sentido, falta de sostenibilidad)?
+
+
+**Paso 2. Identificar lo emergente**
+¿Qué iniciativas, redes o prácticas nuevas están apareciendo?
+¿Qué valores o principios distintos las sostienen?
+¿Cómo muestran una manera diferente de relacionarnos, producir o gobernar?
+
+
+**Paso 3. Explorar la transición**
+¿Qué puentes necesitamos construir entre ambos bucles?
+¿Qué recursos del bucle viejo pueden servir para nutrir lo nuevo?
+¿Qué debemos dejar ir para que lo emergente se expanda?
+
+**Paso 4. Diseñar estrategias**
+Cuidar y visibilizar lo emergente (ej. narrativas, apoyo comunitario, alianzas).
+Reconocer y honrar lo viejo sin quedar atrapados en su decadencia.
+Acompañar a las personas en la incertidumbre y la pérdida.
+
+Recomendaciones: usar el dibujo de los dos bucles como mapa visual durante la conversación, validar emociones: el declive de lo viejo puede generar tristeza, miedo o resistencia, invitar a imaginar futuros: lo emergente necesita ser narrado colectivamente, no sólo descrito, trabajar con metáforas vivas: hablar de “compostar lo viejo para nutrir lo nuevo” suele abrir comprensiones profundas.
+
+Más información [acá](https://berkana.org/wp-content/uploads/2020/04/Emergence-Booklet-Spanish.pdf)
+
 
 ## ☀️Tres Horizontes
 
