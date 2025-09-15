@@ -2,9 +2,8 @@
 
 🧭 _¿Qué es la cosecha?_
 
-La cosecha es una práctica central en Art of Hosting. Es el acto de recoger, dar forma y compartir lo que emergió en una conversación significativa. Es el proceso de acompañar el proceso de divergencia–convergencia para hacer conscientes los aprendizajes, construir entendimiento común y aclarar próximos pasos.
-No se trata sólo de guardar información, sino de darle sentido, hacerla visible y ponerla al servicio del propósito colectivo.
-Es importante mencionar que si bien la mayoría de las veces realizamos cosechas gráficas o de registro, existe la posibilidad de cosechar con fotos, videos, grabaciones, memes, pasos de danza, pinturas, canciones y cualquier otra técnica.
+La cosecha es una práctica central en Art of Hosting. Es el acto de recoger, dar forma y compartir lo que emergió en una conversación significativa. Es el arte de acompañar el proceso de divergencia–convergencia para hacer conscientes los aprendizajes, construir entendimiento común y aclarar próximos pasos.
+No se trata sólo de guardar información, sino de darle sentido, hacerla visible y ponerla al servicio del propósito colectivo. Si bien la mayoría de las veces realizamos cosechas gráficas o de registro, existe la posibilidad de cosechar con fotos, videos, grabaciones, memes, pasos de danza, pinturas, canciones y cualquier otra técnica.
 
 Además, es importante considerar que para cualquier proceso o encuentro, la cosecha se diseña considerando cuatro cuadrantes:
 
