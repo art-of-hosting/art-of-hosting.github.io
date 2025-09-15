@@ -56,6 +56,7 @@ Teniendo en cuenta los marcos de referencia del liderazgo participativo, y de la
 **Aprendizaje:** integrar voces diversas para pasar de la complacencia a la innovación. 
 
 
+
 _🌟 Sugerencias prácticas_
 
 **Antes del encuentro/proceso:** definir qué tipo de cosecha se necesita y quién la realizará.
@@ -67,11 +68,15 @@ _🌟 Sugerencias prácticas_
 **Al compartirla:** acompañarla con una breve introducción que conecte con el propósito y contexto.
 
 
-_Llaves que aportan valor para una cosecha estratégica_
 
-• 	Entregables estratégicos diseñados para aumentar su impacto tanto en contenido como en el diseño gráfico
-• 	Documentación de nuestros procesos y hallazgos para robustecer nuestro conocimiento sobre el cliente para futuros proyectos
-• 	Adaptación del contenido para diferentes actores del proyecto
+_🌟 Llaves que aportan valor para una cosecha estratégica_
+
+**Entregables estratégicos con impacto ampliado:** No se trata solo de registrar lo ocurrido, sino de diseñar entregables que potencien el valor del proceso, cuidando tanto la profundidad del contenido como su presentación gráfica. Esto asegura materiales que no solo informan, sino que inspiran, comunican con claridad y pueden ser utilizados más allá del evento o proyecto específico.
+
+**Documentación que fortalece el aprendizaje grupal y organizacional:** Registrar de manera sistemática los procesos, decisiones y hallazgos nos permite construir una memoria compartida sobre las personas y el contexto. Esta documentación se transforma en un insumo valioso para futuros proyectos, evitando empezar de cero y fortaleciendo nuestra capacidad de respuesta estratégica.
+
+**Adaptación de contenidos para distintos públicos:** Una buena cosecha contempla que no todos los actores necesitan la misma información ni en el mismo formato. Por eso, parte del valor está en adaptar los materiales (resúmenes ejecutivos, visualizaciones, reportes técnicos, cápsulas breves, etc.) para que cada grupo encuentre utilidad en lo que se comparte y pueda actuar en consecuencia.
 
 
-Más info sobre cosecha [acá](https://padlet.com/vreg/biblioteca-art-of-hosting-profundizaci-n-t3hx53qjdc2xovx2.md)
+
+👍 Más info sobre cosecha [acá](https://padlet.com/vreg/biblioteca-art-of-hosting-profundizaci-n-t3hx53qjdc2xovx2.md)
