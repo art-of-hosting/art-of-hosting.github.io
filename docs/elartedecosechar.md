@@ -9,6 +9,8 @@ Además, es importante considerar que para cualquier proceso o encuentro, la cos
 
 <img width="893" height="668" alt="image" src="https://github.com/user-attachments/assets/52d60ad6-fab8-4df9-b0b6-a27e23c9b00a" />
 
+_Imagen creada por Marcela Sotela, inspirada en la original de Mónica Nissen_
+
 **- Cosecha individual–tangible:** lo que cada persona registra de manera concreta para recordar y profundizar en su aprendizaje, como apuntes en un cuaderno, un dibujo personal, una acción concreta que se pone a sí mismo, un libro que compra para leer, una frase que lo/a inspiró, etc.
 
 **- Cosecha individual–intangible:** lo que cada participante se lleva consigo en forma de reflexiones, emociones, intuiciones, nuevas perspectivas o nuevas relaciones, por ejemplo una nueva claridad sobre su propósito o un insight que transforma su mirada. Si bien es imposible captar en lo concreto todo eso, podemos diseñar una cosecha que visibilice esto intangible.
@@ -21,8 +23,6 @@ Además, es importante considerar que para cualquier proceso o encuentro, la cos
 
 _🌾 Cosecha Inicial: 8 Pasos para una Buena Cosecha de Conversaciones_
 <img width="727" height="652" alt="image" src="https://github.com/user-attachments/assets/ae0520b6-69a0-45d4-a987-d2a8851b8100" />
-
-Imagen creada por Marcela Sotela, inspirada en la original de Mónica Nissen
 
 🌱 1. Preparar el terreno: Antes de comenzar a cosechar, es fundamental tener claro qué queremos recoger, para quién y con qué propósito. Esta claridad inicial orienta todo el proceso y permite que la cosecha tenga sentido y utilidad.
 
