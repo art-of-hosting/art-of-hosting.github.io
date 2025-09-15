@@ -55,7 +55,8 @@ _Dar voz ― ¿Qué pasa cuando hablamos nuestra verdad?_
 ## Niveles de escucha
 La propuesta de la Teoría U del [Presencing Institute](https://presencinginstitute.org/) nos invita a pensar la escucha en diferentes “niveles” que pueden ayudarnos a participar en un cambio de conciencia y posibilidad. 
 
-**(FALTA IMAGEN)**
+<img width="550" height="391" alt="image" src="https://github.com/user-attachments/assets/3f6cce56-26d9-4065-99ba-a97362bc6503" />
+Imagen disponible en ["Otto Scharmer: Cómo transformar la disrupción en oportunidad…"](https://helio-borges-escritor.medium.com/otto-scharmer-c%C3%B3mo-transformar-la-disrupci%C3%B3n-en-oportunidad-cf16b76118e2.md) traducido por Helio Borges.
 
 La mayoría de las veces, operamos desde la **escucha habitual o nivel 1**, en la que descargamos información para reconfirmar lo que ya sabemos. Lo que percibimos se limita a nuestras propias proyecciones, reflejando únicamente experiencias del pasado. Es una escucha condicionada, en la que solo prestamos atención a aquello que refuerza nuestras creencias preexistentes.
 
