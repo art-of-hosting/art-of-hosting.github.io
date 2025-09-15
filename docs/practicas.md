@@ -1,4 +1,4 @@
-# Prácticas de Anfitrionazgo
+# Prácticas
 En esta sección te compartiremos una guía de anfitrionazgo para las prácticas de: Cafe del Mundo (World Cafe), Espacio Abierto (OpenSpace), Cosecha colectiva de Historias, Círculo, Diseño para la acción Sabia (DAS) y Cafe ProAction.
 
 ## 💫 Círculo de la palabra
