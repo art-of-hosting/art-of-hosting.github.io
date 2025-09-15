@@ -47,17 +47,24 @@ _🌟Principios de la Cosecha_
 Teniendo en cuenta los marcos de referencia del liderazgo participativo, y de la comprensión que habitamos permanentemente en contextos de alta complejidad, se proponen los siguientes principios como orientadores de una cosecha estratégica en el marco de procesos participativos. Se denominan los principios ESPUMA
 
 **Emergente:** Se trata de diseñar un contenedor flexible para registrar tanto lo esperado como lo inesperado. Darle espacio al emergente.  
+
 **Simple:** foco en la conversación y objetivo, intentar alcanzar el diseño mínimo viable. 
+
 **Participativo y Útil:** la cosecha no debe recaer en una sola persona y debe servir a quienes la usarán.  
+
 **Multimodal:** combinar medios (actas, gráficos, video, curaduría digital) que contemple distintos estilos de aprendizaje y audiencias. 
+
 **Aprendizaje:** integrar voces diversas para pasar de la complacencia a la innovación. 
 
 
 _🌟 Sugerencias prácticas_
 
 **Antes del encuentro/proceso:** definir qué tipo de cosecha se necesita y quién la realizará.
+
 **Durante el encuentro** invitar a los participantes a contribuir con frases, imágenes, ideas que les resuenen. Tener apertura al emergente y habilitar todas las formas de cosecha que emerjan en el hacer.
+
 **Después del encuentro:** revisar, sintetizar y dar forma a la cosecha con sensibilidad y creatividad.
+
 **Al compartirla:** acompañarla con una breve introducción que conecte con el propósito y contexto.
 
 
