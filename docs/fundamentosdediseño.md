@@ -84,3 +84,52 @@ Este enfoque convierte a las preguntas en semillas de transformación. En Art of
 
 **Recordá:** Gran parte del impacto que generemos se siembra en la fase de diseño. Pensar una buena pregunta puede ser un proceso que requiera tiempo, pero es clave que el equipo de anfitriones pueda dedicarle el tiempo necesario.
 
+
+## ☀️Tres Horizontes
+
+ ✨ _¿Qué son los Tres Horizontes?_
+
+Los Tres Horizontes (3H) son un marco para comprender el cambio en sistemas complejos a lo largo del tiempo. Ayuda a visualizar cómo conviven en paralelo distintos patrones de pensamiento, prácticas y estructuras, y cómo algunas se van agotando mientras otras emergen. Se utilizan tanto para planificar estratégicamente como para facilitar conversaciones profundas sobre futuro, innovación y transición.
+
+El referente creador del modelo fue Bill Sharpe ("Three Horizons: The Patterning of Hope" en 2013) y Daniel Christian Wahl lo retomó y adaptó en su libro "Designing Regenerative Cultures" de 2016. El modelo ha sido difundido en la práctica de facilitación estratégica, foresight y sostenibilidad.
+
+<img width="600" height="360" alt="image" src="https://github.com/user-attachments/assets/c2a222c6-2ef6-4a34-908f-a730690d96ca" />
+
+_Figura creada por Daniel Wahl Adaptado de bit.ly/DRC229 con permiso de IFF_
+
+- **Horizonte 1 (H1):** el sistema dominante actual, lo conocido, lo que funciona hoy, pero que empieza a mostrar límites y “síntomas de agotamiento”.
+
+- **Horizonte 2 (H2):** el espacio de transición. Aquí surgen tensiones, innovaciones, intentos de adaptación y también resistencias. Puede incluir tanto prácticas transformadoras como estrategias de “más de lo mismo”.
+
+- **Horizonte 3 (H3):** las visiones de futuro regenerativas, emergentes, las semillas de lo nuevo que podrían reemplazar al sistema actual. Al principio son marginales, pero con el tiempo pueden crecer hasta convertirse en lo dominante.
+
+👍 _Recomendaciones para facilitar_
+
+Si utilizas este modelo para impulsar conversaciones de mapeo, estrategia o planificación, considerá los siguientes tips:
+
+- Coexistencia de horizontes: No se trata de una línea temporal rígida, sino de tres patrones que coexisten simultáneamente. El rol del facilitador es hacerlos visibles y legibles.
+
+- Valor de las tensiones: H2 es especialmente rico: es el lugar de la innovación y el conflicto creativo. Los participantes pueden reconocer en él tanto oportunidades como resistencias.
+
+- Esperanza y posibilidad: El modelo no predice, sino que abre un espacio para imaginar futuros deseables (H3) y conversar sobre cómo llegar allí desde lo que tenemos hoy.
+
+- Aprendizaje colectivo: La herramienta es poderosa cuando se usa para tejer narrativas compartidas, conectando lo que las personas valoran en H1, lo que ya experimentan en H2, y lo que anhelan en H3.
+
+✍️ _Aplicación en diseño de conversaciones_
+
+Paso 1. Mapear el presente (H1) - ¿Qué define nuestro sistema actual? ¿Qué proyectos, prácticas, estructuras funcionan bien?¿Qué limitaciones, problemas o “síntomas de agotamiento” aparecen?¿Qué hacemos para ser parte del mundo como es hoy?
+
+Paso 2. Explorar el futuro emergente (H3) - ¿Qué visiones de futuro nos inspiran?¿Qué proyectos, prácticas, estructuras son del nuevo paradigma?¿Qué ejemplos, aunque pequeños, ya muestran semillas de lo nuevo?¿Cómo sería un futuro regenerativo o deseable para nuestra comunidad/sistema?
+
+Paso 3. Navegar la transición (H2) - ¿Qué proyectos, prácticas, estructuras tienen un elemento innovador? Identificar proyectos, innovaciones o iniciativas que conecten H1 y H3. Reconocer las tensiones: ¿qué se resiste? ¿qué se adapta? Diseñar caminos intermedios que permitan proteger y escalar las semillas de H3.
+
+Paso 4. Cosecha y diseño - Usar el mapa de horizontes como lienzo de diseño para priorizar acciones. Preguntar: ¿qué debemos dejar ir (H1), qué apoyar y experimentar (H2), qué nutrir y proteger (H3)? Registrar aprendizajes y compromisos colectivos.
+
+
+👍 _Recursos de referencia_
+
+- Wahl, D. C. (2017) "Los tres horizontes de la innovación y el cambio cultural" [disponible acá](https://designforsustainability.medium.com/the-three-horizons-of-innovation-and-culture-change-d9681b0e0b0f)
+- Sharpe, B. (2013). Three Horizons: The Patterning of Hope. Triarchy Press.
+- Wahl, D. C. (2016). Designing Regenerative Cultures. Triarchy Press.
+- Transformative Innovation Policy Consortium (TIPC). Three Horizons Toolkit.
+- Future Stewards. Three Horizons as a Practice (recursos en abierto, inglés).
