@@ -19,7 +19,7 @@ Además, es importante considerar que para cualquier proceso o encuentro, la cos
 
 
 
-_🌾 Cosecha Inicial: 8 Pasos para una Buena Cosecha de Conversaciones _
+_🌾 Cosecha Inicial: 8 Pasos para una Buena Cosecha de Conversaciones_
 <img width="727" height="652" alt="image" src="https://github.com/user-attachments/assets/ae0520b6-69a0-45d4-a987-d2a8851b8100" />
 
 
