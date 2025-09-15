@@ -11,9 +11,11 @@ En esta sección queremos ofrecer algunas herramientas y marcos en los que nos g
 
 ## 💚 Preguntas Poderosas
 ✨ _¿Qué son?_
+
 Las preguntas poderosas son el corazón del Art of Hosting. Son herramientas vivas que activan la inteligencia colectiva, abren posibilidades, y generan sentido profundo. No buscan respuestas rápidas, sino que invitan a la reflexión, la conexión, el aprendizaje, despiertan curiosidad, abren posibilidades y generan sentido. No buscan respuestas rápidas ni cerradas, sino que provocan movimiento interno y colectivo.
 
 🧭 _¿Para qué sirven las preguntas poderosas?_
+
 Las preguntas poderosas son una de las herramientas más sencillas y, al mismo tiempo, más transformadoras que tenemos para acompañar conversaciones significativas. Su valor no está en ofrecer respuestas rápidas, sino en abrir caminos. Una buena pregunta puede activar la inteligencia colectiva, haciendo que las distintas voces del grupo encuentren puntos de conexión y generen algo que incorpora y, al mismo tiempo, trasciende lo individual.
 
 Estas preguntas también invitan a la apertura y a la profundidad, ayudando a que las conversaciones vayan más allá de lo obvio. Al mismo tiempo, permiten enfocar el propósito, recordándonos qué es lo importante y hacia dónde queremos dirigir la energía.
@@ -21,6 +23,7 @@ Estas preguntas también invitan a la apertura y a la profundidad, ayudando a qu
 Formularlas es, además, un gesto de hospitalidad: una invitación a la reflexión y al aprendizaje, que fomenta la escucha y la conexión entre quienes participan. En su mejor versión, las preguntas poderosas no cierran, sino que siembran nuevas preguntas y nos empujan a trascender límites, expandiendo la manera en que entendemos el mundo y nuestras posibilidades de acción.
 
 🧭 _¿Por qué son esenciales?_
+
 Porque “la calidad de nuestras preguntas determina la calidad de nuestras conversaciones”. 
 Las preguntas poderosas: Invitan a explorar lo desconocido, revelan supuestos ocultos, generan movimiento y acción y llegan a lo que realmente importa.
 Podríamos decir que viajan bien: se expanden en redes y comunidades
@@ -28,20 +31,24 @@ Podríamos decir que viajan bien: se expanden en redes y comunidades
 🛠️ Entonces … ¿Qué hace poderosa a una pregunta?
 
 Que sea…
-✅Objetiva
-✅Reflexiva
+
+✅Objetiva. Reveladora de supuestos.
+
+✅Reflexiva y Abierta. No se responde con sí/no; invita a explorar.
+
 ✅Generadora de pensamiento profundo, no respuestas automáticas
-✅Abierta
-✅No se responde con sí/no; invita a explorar
+
 ✅Alineada con el sentido del encuentro
-✅Revela supuestos
+
 ✅Ayuda a cuestionar creencias limitantes
-✅Genera movimiento
-✅Abre nuevas posibilidades y caminos
+
+✅Genera movimiento. Abre nuevas posibilidades y caminos.
+
 ✅Evoca más preguntas
+
 ✅Alimenta el ciclo de aprendizaje colectivo
-✅Toca lo esencial
-✅Conecta con lo que realmente importa
+
+✅Toca lo esencial y Conecta con lo que realmente importa
 
 
 🌱 _Ejemplos de preguntas poderosas_
