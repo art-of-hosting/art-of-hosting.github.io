@@ -9,6 +9,9 @@ En esta sección queremos ofrecer algunas herramientas y marcos en los que nos g
 
 👉Tres Horizontes (Bill Sharpe, International Futures Forum, Escocia, 2013 y adaptado por Daniel Wahl, UK, 2016)
 
+Encontrarás más info [acá](https://padlet.com/vreg/biblioteca-art-of-hosting-profundizaci-n-t3hx53qjdc2xovx2.md)
+
+
 ## 💚 Preguntas Poderosas
 ✨ _¿Qué son?_
 
