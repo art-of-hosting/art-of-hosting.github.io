@@ -22,6 +22,7 @@ Además, es importante considerar que para cualquier proceso o encuentro, la cos
 _🌾 Cosecha Inicial: 8 Pasos para una Buena Cosecha de Conversaciones_
 <img width="727" height="652" alt="image" src="https://github.com/user-attachments/assets/ae0520b6-69a0-45d4-a987-d2a8851b8100" />
 
+Imagen creada por Marcela Sotela, inspirada en la original de Mónica Nissen
 
 🌱 1. Preparar el terreno: Antes de comenzar a cosechar, es fundamental tener claro qué queremos recoger, para quién y con qué propósito. Esta claridad inicial orienta todo el proceso y permite que la cosecha tenga sentido y utilidad.
 
