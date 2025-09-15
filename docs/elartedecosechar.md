@@ -1,11 +1,13 @@
 # El arte de cosechar
 
 🧭 _¿Qué es la cosecha?_
+
 La cosecha es una práctica central en Art of Hosting. Es el acto de recoger, dar forma y compartir lo que emergió en una conversación significativa. Es el proceso de acompañar la divergencia–convergencia para hacer conscientes los aprendizajes, construir entendimiento común y aclarar próximos pasos.
 No se trata sólo de guardar información, sino de darle sentido, hacerla visible y ponerla al servicio del propósito colectivo.
 
 🌾 Cosecha Inicial: 8 Pasos para una Buena Cosecha de Conversaciones 
 <img width="727" height="652" alt="image" src="https://github.com/user-attachments/assets/ae0520b6-69a0-45d4-a987-d2a8851b8100" />
+
 
 🌱 1. Preparar el terreno
 Antes de comenzar a cosechar, es fundamental tener claro qué queremos recoger, para quién y con qué propósito. Esta claridad inicial orienta todo el proceso y permite que la cosecha tenga sentido y utilidad.
@@ -33,6 +35,7 @@ La cosecha es un acto de hospitalidad y cuidado. Requiere tiempo, dedicación y 
 
 
 _Principios de la Cosecha_
+
 Teniendo en cuenta los marcos de referencia del liderazgo participativo, y de la comprensión que habitamos permanentemente en contextos de alta complejidad, se proponen los siguientes principios como orientadores de una cosecha estratégica en el marco de procesos participativos. Se denominan los principios ESPUMA
 
 Emergente: Se trata de diseñar un contenedor flexible para registrar tanto lo esperado como lo inesperado. Darle espacio al emergente.  
@@ -42,14 +45,17 @@ Multimodal: combinar medios (actas, gráficos, video, curaduría digital) que co
 Aprendizaje: integrar voces diversas para pasar de la complacencia a la innovación. 
 
 _🌟 Sugerencias prácticas_
+
 • 	Antes del encuentro/proceso: definir qué tipo de cosecha se necesita y quién la realizará.
 • 	Durante el encuentro: invitar a los participantes a contribuir con frases, imágenes, ideas que les resuenen.
 • 	Después del encuentro: revisar, sintetizar y dar forma a la cosecha con sensibilidad y creatividad.
 • 	Al compartirla: acompañarla con una breve introducción que conecte con el propósito y contexto.
 
 _Llaves que aportan valor para una cosecha estratégica_
+
 • 	Entregables estratégicos diseñados para aumentar su impacto tanto en contenido como en el diseño gráfico
 • 	Documentación de nuestros procesos y hallazgos para robustecer nuestro conocimiento sobre el cliente para futuros proyectos
 • 	Adaptación del contenido para diferentes actores del proyecto
+
 
 Más info sobre cosecha [acá](https://padlet.com/vreg/biblioteca-art-of-hosting-profundizaci-n-t3hx53qjdc2xovx2.md)
