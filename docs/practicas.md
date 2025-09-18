@@ -316,3 +316,99 @@ _Entre cada ronda, se recomienda hacer pequeñas pausas para permitir que las pe
 🌍 Animar a la colaboración más allá del evento.
 
 El Café Pro Action transforma ideas en acción a través del poder de la comunidad. ¡Manos a la obra! 🚀✨
+
+
+## 🌀 Diseño para la Acción Sabia (DAS)
+El Diseño para la Acción Sabia (DAS) nace como un espacio donde quienes impulsan proyectos pueden recibir apoyo y nuevas perspectivas, mientras que las personas participantes ejercitan la colaboración y la generosidad. Su propósito es acompañar la construcción de un mapa de ruta compartido que permita atravesar de manera consciente las etapas y actores de un proceso de cambio, generando acciones no solo eficientes, sino también sabias, conscientes y regenerativas.
+
+En entornos donde la presión por actuar es alta, solemos caer en dos extremos: la parálisis por análisis o la acción apresurada que genera efectos colaterales. El DAS aparece como un puente entre ambos, invitando a:
+
+- Escuchar antes de movernos.
+- Nombrar la tensión central que nos convoca.
+- Dar lugar a múltiples perspectivas (racionales, emocionales, intuitivas).
+- Diseñar prototipos de acción que permitan aprender mientras avanzamos.
+
+En su esencia, el DAS nos recuerda que no toda acción es sabia, y no toda sabiduría se traduce en acción. La práctica nos invita a sostener ambas dimensiones al mismo tiempo.
+
+
+⏳ _Cuándo usar esta práctica_
+
+El DAS es especialmente útil cuando:
+- Nos encontramos frente a decisiones complejas donde no existe una respuesta única ni evidente.
+- Queremos facilitar procesos colectivos y necesitamos que la acción final tenga legitimidad y sentido compartido.
+- Buscamos prototipar transformaciones organizacionales o sociales sin caer en el error de aplicar soluciones prefabricadas.
+- Percibimos que la urgencia nos está empujando a actuar sin suficiente reflexión, y necesitamos pausar para elegir con mayor conciencia.
+- Queremos asegurar que nuestras acciones estén alineadas con principios de cuidado, regeneración y propósito.
+
+
+🛠️ _Cómo se hace un DAS_
+
+Roles en el proceso
+- Facilitador/a: explica la práctica, acompaña al convocante en la claridad de propósito y guía el trabajo del grupo. Sostiene el flujo y ayuda a desbloquear si el proceso se detiene.
+- Convocante: persona o equipo que presenta su proyecto. Es quien pide ayuda, recibe preguntas, escucha perspectivas y se compromete con los próximos pasos.
+Co-diseñadores/as: participantes que contribuyen con preguntas, ideas y experiencias al diseño del proyecto. Practican la generosidad poniendo su mirada al servicio.
+- Grupo: conversa de manera participativa para que emerjan diversidad, creatividad y complejidad. Su tarea es ayudar a que las acciones sabias tomen forma concreta.
+Equipo de apoyo (opcional): facilitadores/as adicionales que acompañan a varios grupos si el número de participantes es grande.
+
+
+Criterios para el convocante
+
+El DAS funciona mejor con proyectos reales, próximos y relevantes. Para ser convocante es necesario tener un proyecto claro que suceda dentro del próximo año, reconocer la necesidad y el propósito profundo (¿para qué existe este proyecto?, ¿qué necesidad real responde?), estar dispuesto/a a compartirlo en pocas palabras, de forma concreta y abierta y reconocer que el proyecto involucra a más personas y actores que a uno mismo.
+
+
+Etapas del proceso
+
+1) Invitar a los convocantes: se abre la posibilidad para que personas o equipos que necesitan apoyo se presenten como convocantes. Es importante que lleguen con un proyecto concreto y una intención clara.
+2) Presentar el proceso: el facilitador/a explica al grupo cómo se trabajará y por qué es valioso pedir ayuda y diseñar de manera colaborativa. Se subrayan tres actitudes clave: claridad de propósito, relaciones respetuosas y acción orientada al bien común.
+3) Compartir los proyectos: cada convocante presenta su proyecto en un máximo de 2 minutos. Luego, quienes quieran apoyar ese caso se agrupan a su alrededor
+4) Trabajo en equipos: cada equipo se organiza en torno a un convocante y comienza el proceso:
+- Escuchar el proyecto y formular preguntas abiertas: identificar necesidad, propósito y actores clave.
+- Esbozar un mapa de ruta con etapas, encuentros y primeras acciones.
+- Registrar los aportes en una plantilla de cosecha (en post-its o notas digitales).
+5) Intercambio entre equipos: los grupos se encuentran de a pares para presentar su diseño y recibir retroalimentación. Esto permite ampliar la mirada y enriquecer la propuesta.
+6) Integración y refinamiento: cada equipo regresa con su convocante y ajusta el diseño a partir del feedback recibido. El objetivo es lograr un mapa más claro, accionable y compartido.
+7) Cosecha y cierre: de vuelta en círculo, cada convocante comparte qué aprendió, qué agradece y cuáles serán sus dos próximos pasos sabios. El grupo recoge aprendizajes colectivos y reconoce el valor de la generosidad puesta en juego.
+  
+Tiempos sugeridos
+- Introducción y presentación de proyectos: 30 min
+- Trabajo en equipos: 90 min
+- Intercambio y feedback entre equipos: 20 min
+- Integración y ajustes: 20–30 min
+- Cosecha y cierre: 15–20 mi
+ 👉 Total estimado: 3 a 4 horas.
+
+
+Preguntas guía
+
+Necesidad y propósito: 
+¿Cuál es la necesidad real de este proyecto?
+¿Qué propósito mayor busca servir?
+¿Qué llamada podría invitar a otros a sumarse?
+
+Actores y aliados: 
+¿Quiénes son los actores clave?
+¿Quiénes necesitan participar para que el sistema esté bien representado?
+¿Qué alianzas podrían potenciar el proyecto?
+
+Primer encuentro:
+¿Cómo sería la primera reunión o evento?
+¿Qué metodologías apoyarían mejor el propósito?
+¿Cómo hacer de este encuentro una experiencia significativa?
+
+Cosecha y próximos pasos:
+¿Qué queremos cosechar y para quién?
+¿Qué aprendizajes y relaciones deben fortalecerse?
+¿Cuáles son los dos próximos pasos sabios para el convocante y para el proyecto?
+
+
+🎯 Tips para esta práctica
+- Cuidar la claridad del proyecto: asegurarse de que cada convocante traiga un caso concreto, con necesidad y propósito claros, y que suceda en un plazo razonable (menos de un año).
+- Practicar la escucha profunda: en las primeras fases, evitar dar consejos; enfocar la energía en preguntas abiertas que amplíen la mirada del convocante.
+- Equilibrar tiempos: mantener breves las presentaciones iniciales para dejar espacio al trabajo colectivo. Recordar que la riqueza está en la co-creación, no en la exposición.
+- Usar la diversidad como recurso: invitar a que todas las voces del grupo se expresen. La sabiduría emerge de la mezcla de perspectivas, incluso en la diferencia.
+- Apoyarse en herramientas visuales: registrar el trabajo en plantillas o pizarras ayuda a organizar ideas, ver el mapa completo y facilitar el feedback posterior.
+- Dar valor al feedback entre equipos: el coaching de pares es un momento clave para abrir ángulos nuevos; animar a recibirlo sin defensividad y a integrarlo con flexibilidad.
+- Cerrar con próximos pasos concretos: asegurar que cada convocante se lleve claridad sobre qué hacer inmediatamente después del DAS, y cuáles son los pasos sabios que seguirá.
+- Honrar la generosidad del grupo: reconocer el aporte de quienes colaboran, porque la práctica fortalece tanto al proyecto como a la comunidad que la sostiene.
+
+
