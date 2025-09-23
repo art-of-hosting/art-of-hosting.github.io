@@ -1,0 +1,743 @@
+
+<!doctype html>
+<html lang="es" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://art-of-hosting.github.io/fundamentosdedise%C3%B1o/">
+      
+      
+        <link rel="prev" href="../elartedecosechar/">
+      
+      
+        <link rel="next" href="../practicas/">
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.20">
+    
+    
+      
+        <title>Fundamentos de diseño - Art of Hosting</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.e53b48f4.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#fundamentos-de-diseno" class="md-skip">
+          Saltar a contenido
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Cabecera">
+    <a href=".." title="Art of Hosting" class="md-header__button md-logo" aria-label="Art of Hosting" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Art of Hosting
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Fundamentos de diseño
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Búsqueda" placeholder="Búsqueda" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Buscar">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Limpiar" aria-label="Limpiar" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Inicializando búsqueda
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navegación" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="Art of Hosting" class="md-nav__button md-logo" aria-label="Art of Hosting" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Art of Hosting
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Sobre este manual virtual
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../elartedeanfitrionar/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    El arte de anfitrionar y cosechar
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../sobreeldialogo/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Sobre el diálogo
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../elartedecosechar/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    El arte de cosechar
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    Fundamentos de diseño
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    Fundamentos de diseño
+    
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Tabla de contenidos">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Tabla de contenidos
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#preguntas-poderosas" class="md-nav__link">
+    <span class="md-ellipsis">
+      💚 Preguntas Poderosas
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#diamante-de-la-participacion" class="md-nav__link">
+    <span class="md-ellipsis">
+      💎Diamante de la participación
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#doble-bucle" class="md-nav__link">
+    <span class="md-ellipsis">
+      🌷 Doble Bucle
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tres-horizontes" class="md-nav__link">
+    <span class="md-ellipsis">
+      ☀️Tres Horizontes
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../practicas/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Prácticas
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../recursos-complementarios/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Recursos complementarios
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Tabla de contenidos">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Tabla de contenidos
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#preguntas-poderosas" class="md-nav__link">
+    <span class="md-ellipsis">
+      💚 Preguntas Poderosas
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#diamante-de-la-participacion" class="md-nav__link">
+    <span class="md-ellipsis">
+      💎Diamante de la participación
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#doble-bucle" class="md-nav__link">
+    <span class="md-ellipsis">
+      🌷 Doble Bucle
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tres-horizontes" class="md-nav__link">
+    <span class="md-ellipsis">
+      ☀️Tres Horizontes
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="fundamentos-de-diseno">Fundamentos de diseño</h1>
+<p>En esta sección queremos ofrecer algunas herramientas y marcos en los que nos gustaría hacer base para el diseño de procesos conversacionales, reuniones, talleres y espacios de aprendizaje. </p>
+<p>👉Preguntas poderosas (Juanita Brown y David Isaacs, The World Café, EE. UU., 2005)</p>
+<p>👉Diamante de la participación (Sam Kaner y Community at Work, San Francisco, 1996)</p>
+<p>👉Doble Bucle (Berkana Institute, EE. UU., 2000s, inspirado en las prácticas de Margaret Wheatley y colegas)</p>
+<p>👉Tres Horizontes (Bill Sharpe, International Futures Forum, Escocia, 2013 y adaptado por Daniel Wahl, UK, 2016)</p>
+<p>Encontrarás más info <a href="https://padlet.com/vreg/biblioteca-art-of-hosting-profundizaci-n-t3hx53qjdc2xovx2.md">acá</a></p>
+<h2 id="preguntas-poderosas">💚 Preguntas Poderosas</h2>
+<p>✨ <em>¿Qué son?</em></p>
+<p>Las preguntas poderosas son el corazón del Art of Hosting. Son herramientas vivas que activan la inteligencia colectiva, abren posibilidades, y generan sentido profundo. No buscan respuestas rápidas, sino que invitan a la reflexión, la conexión, el aprendizaje, despiertan curiosidad, abren posibilidades y generan sentido. No buscan respuestas rápidas ni cerradas, sino que provocan movimiento interno y colectivo.</p>
+<p>🧭 <em>¿Para qué sirven las preguntas poderosas?</em></p>
+<p>Las preguntas poderosas son una de las herramientas más sencillas y, al mismo tiempo, más transformadoras que tenemos para acompañar conversaciones significativas. Su valor no está en ofrecer respuestas rápidas, sino en abrir caminos. Una buena pregunta puede activar la inteligencia colectiva, haciendo que las distintas voces del grupo encuentren puntos de conexión y generen algo que incorpora y, al mismo tiempo, trasciende lo individual.</p>
+<p>Estas preguntas también invitan a la apertura y a la profundidad, ayudando a que las conversaciones vayan más allá de lo obvio. Al mismo tiempo, permiten enfocar el propósito, recordándonos qué es lo importante y hacia dónde queremos dirigir la energía.</p>
+<p>Formularlas es, además, un gesto de hospitalidad: una invitación a la reflexión y al aprendizaje, que fomenta la escucha y la conexión entre quienes participan. En su mejor versión, las preguntas poderosas no cierran, sino que siembran nuevas preguntas y nos empujan a trascender límites, expandiendo la manera en que entendemos el mundo y nuestras posibilidades de acción.</p>
+<p>🧭 <em>¿Por qué son esenciales?</em></p>
+<p>Porque “la calidad de nuestras preguntas determina la calidad de nuestras conversaciones”. 
+Las preguntas poderosas: Invitan a explorar lo desconocido, revelan supuestos ocultos, generan movimiento y acción y llegan a lo que realmente importa.
+Podríamos decir que viajan bien: se expanden en redes y comunidades</p>
+<p>🛠️ <em>Entonces … ¿Qué hace poderosa a una pregunta?</em></p>
+<p>Que sea…</p>
+<p>✅Objetiva. Reveladora de supuestos.</p>
+<p>✅Reflexiva y Abierta. No se responde con sí/no; invita a explorar.</p>
+<p>✅Generadora de pensamiento profundo, no respuestas automáticas</p>
+<p>✅Alineada con el sentido del encuentro</p>
+<p>✅Ayuda a cuestionar creencias limitantes</p>
+<p>✅Genera movimiento. Abre nuevas posibilidades y caminos.</p>
+<p>✅Evoca más preguntas</p>
+<p>✅Alimenta el ciclo de aprendizaje colectivo</p>
+<p>✅Toca lo esencial y Conecta con lo que realmente importa</p>
+<p>🌱 <em>Ejemplos de preguntas poderosas</em></p>
+<p>Para abrir conversaciones:
+¿Qué es importante para nosotros en este momento?
+¿Qué nos trajo hasta aquí?</p>
+<p>Para profundizar:
+¿Qué está emergiendo en esta conversación?
+¿Qué nos desafía o sorprende?</p>
+<p>Para avanzar:
+¿Qué sería posible si el éxito estuviera garantizado?
+¿Qué pasos podemos dar juntos desde aquí?</p>
+<p>🎨 <em>Sugerencias</em>
+- Usar preguntas como eje de diseño en encuentros (World Café, Círculo, ProAction Café)
+- Co-crear preguntas con el grupo para fomentar pertenencia
+- Replantear preguntas cerradas hacia otras que abren
+- Explorar los supuestos detrás de cada pregunta
+- Dejar espacio para el silencio y la contemplación después de formularlas</p>
+<p>Este enfoque convierte a las preguntas en semillas de transformación. En Art of Hosting, no se trata solo de tener respuestas, sino de hacer las preguntas que realmente importan.</p>
+<p><strong>Recordá:</strong> Gran parte del impacto que generemos se siembra en la fase de diseño. Pensar una buena pregunta puede ser un proceso que requiera tiempo, pero es clave que el equipo de anfitriones pueda dedicarle el tiempo necesario.</p>
+<p>Más información <a href="https://www.sparc.bc.ca/wp-content/uploads/2020/11/the-art-of-powerful-questions.pdf">acá</a></p>
+<h2 id="diamante-de-la-participacion">💎Diamante de la participación</h2>
+<p>El Diamante de la Participación, desarrollado por Sam Kaner, es una herramienta clave para comprender los ritmos internos de los procesos participativos. Propone tres momentos que suelen atravesar los grupos: divergencia, emergencia y convergencia. Reconocer en qué fase se encuentra un grupo permite al equipo facilitador acompañar con mayor claridad, sensibilidad y eficacia.</p>
+<p><em>🌬️ Una metáfora viva: El proceso grupal como una respiración.</em>
+- Divergencia es la inhalación profunda: apertura, oxigenación, expansión.
+- Convergencia es la exhalación enfocada: síntesis, canalización, decisión.
+Entre ambas, el momento emergente es la zona de crujido, donde se integran tensiones y posibilidades.</p>
+<p><em>🟢 Momento Divergente: Apertura y Exploración</em>
+Es una fase de búsqueda, donde aún no hay objetivos definidos.
+Lo esencial es contar con un propósito compartido que oriente la exploración.
+Se caracteriza por la no linealidad, la diversidad de voces y el caos creativo.
+Requiere tiempo y paciencia para que emerjan ideas nuevas.
+Cerrar esta fase demasiado pronto puede inhibir la innovación.
+🔹 Rol del facilitador: sostener la apertura, hacer preguntas amplias, evitar apresurar conclusiones.</p>
+<p><em>🟡 Momento Emergente: Zona de Crujido</em>
+Es el punto de máxima tensión entre ideas divergentes.
+Puede sentirse incómodo, desordenado o desafiante, pero es fértil.
+Aquí se integran perspectivas, se amplía la comprensión y pueden emerger soluciones inesperadas.
+Requiere escucha profunda, contención emocional y valentía para sostener la incomodidad.
+🔹 Rol del facilitador: cuidar el espacio, facilitar la integración, sostener el proceso sin forzar cierre.</p>
+<p><em>🔴 Momento Convergente: Síntesis y Acción</em>
+Es una fase estructurada y orientada a resultados.
+Se enfoca en evaluar alternativas, ordenar ideas y tomar decisiones.
+Generalmente está sujeta a limitaciones de tiempo y requiere claridad metodológica.
+El pensamiento convergente busca priorizar, cerrar y avanzar.
+🔹 Rol del facilitador: guiar hacia conclusiones, facilitar acuerdos, organizar la información.</p>
+<p>Reconocer estos tres momentos permite diseñar encuentros más conscientes y efectivos. Cada fase tiene su propio ritmo, necesidades y desafíos. El arte del facilitador está en leer el momento, acompañar con presencia, y ofrecer las prácticas adecuadas para que el grupo avance con sentido.</p>
+<p><img width="785" height="467" alt="image" src="https://github.com/user-attachments/assets/1c020c6f-1612-4d45-9b42-3686a9908fae" /></p>
+<p>Basada en el Diamante de la Participación para la generación de encuentros participativos, les compartimos una guía de preguntas y herramientas para cada una de las fases.</p>
+<p><strong>1. 🌱 Fase Divergente – Abrir el espacio</strong>
+Propósito: Explorar múltiples voces, ampliar perspectivas, sembrar preguntas
+Preguntas guía: ¿Qué está queriendo emerger aquí?¿Qué voces aún no han sido escuchadas?
+Herramientas sugeridas:  World Café, Círculo de apertura, Preguntas poderosas</p>
+<p><strong>2. 🔥 Fase Emergente – Zona de crujido</strong>
+Propósito: Integrar tensiones, sostener la incomodidad, permitir que surja lo nuevo
+Preguntas guía: ¿Qué ideas pueden convivir aunque parezcan opuestas?¿Qué necesitamos sostener para que algo nuevo aparezca?
+Herramientas sugeridas: Círculo de la conversación, Espacios de silencio, Cosecha en tiempo real, Preguntas reflexivas</p>
+<p><strong>3. 🎯 Fase Convergente – Avanzar con claridad</strong>
+Propósito: Sintetizar, tomar decisiones, cerrar con sentido
+Preguntas guía: ¿Qué es lo esencial que queremos llevarnos?¿Qué decisión podemos tomar ahora con lo que tenemos?
+Herramientas sugeridas: ProAction Café, Métodos de priorización, Cierre colectivo, Cosecha visual</p>
+<p><strong>#Bonus ¿Qué pasa si un proceso de anfitrionaje está compuesto por más de un encuentro?</strong>
+El diseño de la experiencia es la clave. Dentro de un mismo proceso pueden darse múltiples momentos de divergencia y convergencia. Es importante tener en cuenta que, si generamos divergencia sin propiciar una convergencia a tiempo, esto puede producir en los participantes sensaciones de incomodidad, incluso físicas. Por eso, debemos aprender a usar estas transiciones de manera intencional, poniéndolas al servicio del proceso y de los objetivos que buscamos alcanzar.</p>
+<h2 id="doble-bucle">🌷 Doble Bucle</h2>
+<p>✨ <em>¿Qué es el Doble Bucle?</em></p>
+<p>El Doble Bucle es una metáfora visual y conceptual para comprender cómo emergen nuevas formas de organización social, cultural o económica dentro de un sistema que se encuentra en declive. En lugar de ver el cambio como una simple sustitución (lo viejo muere y lo nuevo nace), el modelo muestra un proceso simultáneo y entrelazado. El modelo fue creado por Berkana Institute (Libro Wheatley, M. &amp; Frieze, D. (2006). Using Emergence to Take Social Innovations to Scale. Berkana Institute).</p>
+<p>El modelo describe cómo los sistemas sociales atraviesan transiciones profundas, mostrando cómo lo nuevo emerge dentro de lo viejo hasta que logra sostenerse por sí mismo. </p>
+<ul>
+<li>
+<p><strong>Primer bucle (Bucle de lo establecido):</strong> representa el sistema actual dominante, que se ha vuelto insostenible y empieza a entrar en crisis.</p>
+</li>
+<li>
+<p><strong>Segundo bucle (Bucle emergente):</strong> representa las nuevas prácticas, innovaciones y formas de organización que comienzan como “márgenes” o iniciativas pequeñas, pero que con el tiempo crecen y se fortalecen.</p>
+</li>
+</ul>
+<p>La intersección de ambos bucles es el espacio de transición, donde lo viejo declina y lo nuevo todavía es frágil.</p>
+<p><img width="775" height="505" alt="image" src="https://github.com/user-attachments/assets/71fd0f1a-f073-46cb-9539-364aa53a173a" /></p>
+<p><em>Imagen disponible en www.berkana.org</em></p>
+<p>🌱 <em>Principios clave para facilitar</em></p>
+<ul>
+<li>
+<p>Lo viejo y lo nuevo coexisten: no hay un corte abrupto; se trata de una superposición de tiempos y lógicas.</p>
+</li>
+<li>
+<p>El poder de lo pequeño: lo emergente comienza en comunidades, redes locales o prácticas alternativas que parecen marginales, pero contienen la semilla del futuro.</p>
+</li>
+<li>
+<p>Conexión y visibilidad: el nuevo bucle necesita redes de apoyo, visibilización y legitimidad para consolidarse.</p>
+</li>
+<li>
+<p>El arte del “dejar ir”: lo viejo todavía tiene valor, pero requiere soltar rigideces y reconocer su declive.</p>
+</li>
+</ul>
+<p>🎨 <em>Aplicación en diseño de conversaciones</em></p>
+<p><strong>Paso 1. Nombrar el bucle viejo</strong>
+¿Qué instituciones, prácticas o estructuras representan lo dominante en este sistema?
+¿Qué logros históricos debemos reconocer?
+¿Qué síntomas de agotamiento aparecen (ineficacia, exclusión, pérdida de sentido, falta de sostenibilidad)?</p>
+<p><strong>Paso 2. Identificar lo emergente</strong>
+¿Qué iniciativas, redes o prácticas nuevas están apareciendo?
+¿Qué valores o principios distintos las sostienen?
+¿Cómo muestran una manera diferente de relacionarnos, producir o gobernar?</p>
+<p><strong>Paso 3. Explorar la transición</strong>
+¿Qué puentes necesitamos construir entre ambos bucles?
+¿Qué recursos del bucle viejo pueden servir para nutrir lo nuevo?
+¿Qué debemos dejar ir para que lo emergente se expanda?</p>
+<p><strong>Paso 4. Diseñar estrategias</strong>
+Cuidar y visibilizar lo emergente (ej. narrativas, apoyo comunitario, alianzas).
+Reconocer y honrar lo viejo sin quedar atrapados en su decadencia.
+Acompañar a las personas en la incertidumbre y la pérdida.</p>
+<p>Recomendaciones: usar el dibujo de los dos bucles como mapa visual durante la conversación, validar emociones: el declive de lo viejo puede generar tristeza, miedo o resistencia, invitar a imaginar futuros: lo emergente necesita ser narrado colectivamente, no sólo descrito, trabajar con metáforas vivas: hablar de “compostar lo viejo para nutrir lo nuevo” suele abrir comprensiones profundas.</p>
+<p>Más información <a href="https://berkana.org/wp-content/uploads/2020/04/Emergence-Booklet-Spanish.pdf">acá</a></p>
+<h2 id="tres-horizontes">☀️Tres Horizontes</h2>
+<p>✨ <em>¿Qué son los Tres Horizontes?</em></p>
+<p>Los Tres Horizontes (3H) son un marco para comprender el cambio en sistemas complejos a lo largo del tiempo. Ayuda a visualizar cómo conviven en paralelo distintos patrones de pensamiento, prácticas y estructuras, y cómo algunas se van agotando mientras otras emergen. Se utilizan tanto para planificar estratégicamente como para facilitar conversaciones profundas sobre futuro, innovación y transición.</p>
+<p>El referente creador del modelo fue Bill Sharpe ("Three Horizons: The Patterning of Hope" en 2013) y Daniel Christian Wahl lo retomó y adaptó en su libro "Designing Regenerative Cultures" de 2016. El modelo ha sido difundido en la práctica de facilitación estratégica, foresight y sostenibilidad.</p>
+<p><img width="600" height="360" alt="image" src="https://github.com/user-attachments/assets/c2a222c6-2ef6-4a34-908f-a730690d96ca" /></p>
+<p><em>Figura creada por Daniel Wahl Adaptado de bit.ly/DRC229 con permiso de IFF</em></p>
+<ul>
+<li>
+<p><strong>Horizonte 1 (H1):</strong> el sistema dominante actual, lo conocido, lo que funciona hoy, pero que empieza a mostrar límites y “síntomas de agotamiento”.</p>
+</li>
+<li>
+<p><strong>Horizonte 2 (H2):</strong> el espacio de transición. Aquí surgen tensiones, innovaciones, intentos de adaptación y también resistencias. Puede incluir tanto prácticas transformadoras como estrategias de “más de lo mismo”.</p>
+</li>
+<li>
+<p><strong>Horizonte 3 (H3):</strong> las visiones de futuro regenerativas, emergentes, las semillas de lo nuevo que podrían reemplazar al sistema actual. Al principio son marginales, pero con el tiempo pueden crecer hasta convertirse en lo dominante.</p>
+</li>
+</ul>
+<p>👍 <em>Recomendaciones para facilitar</em></p>
+<p>Si utilizas este modelo para impulsar conversaciones de mapeo, estrategia o planificación, considerá los siguientes tips:</p>
+<ul>
+<li>
+<p>Coexistencia de horizontes: No se trata de una línea temporal rígida, sino de tres patrones que coexisten simultáneamente. El rol del facilitador es hacerlos visibles y legibles.</p>
+</li>
+<li>
+<p>Valor de las tensiones: H2 es especialmente rico: es el lugar de la innovación y el conflicto creativo. Los participantes pueden reconocer en él tanto oportunidades como resistencias.</p>
+</li>
+<li>
+<p>Esperanza y posibilidad: El modelo no predice, sino que abre un espacio para imaginar futuros deseables (H3) y conversar sobre cómo llegar allí desde lo que tenemos hoy.</p>
+</li>
+<li>
+<p>Aprendizaje colectivo: La herramienta es poderosa cuando se usa para tejer narrativas compartidas, conectando lo que las personas valoran en H1, lo que ya experimentan en H2, y lo que anhelan en H3.</p>
+</li>
+</ul>
+<p>✍️ <em>Aplicación en diseño de conversaciones</em></p>
+<p>Paso 0. Identificar qué sistema se desea mapear con su temporalidad y territorio. Es clave partir de datos concretos de la realidad.</p>
+<p>Paso 1. Mapear el presente (H1) - ¿Qué define nuestro sistema actual? ¿Qué proyectos, prácticas, estructuras funcionan bien?¿Qué limitaciones, problemas o “síntomas de agotamiento” aparecen?¿Qué hacemos para ser parte del mundo como es hoy?</p>
+<p>Paso 2. Explorar el futuro emergente (H3) - ¿Qué visiones de futuro nos inspiran?¿Qué proyectos, prácticas, estructuras son del nuevo paradigma?¿Qué ejemplos, aunque pequeños, ya muestran semillas de lo nuevo?¿Cómo sería un futuro regenerativo o deseable para nuestra comunidad/sistema?</p>
+<p>Paso 3. Navegar la transición (H2) - ¿Qué proyectos, prácticas, estructuras tienen un elemento innovador? Identificar proyectos, innovaciones o iniciativas que conecten H1 y H3. Reconocer las tensiones: ¿qué se resiste? ¿qué se adapta? Diseñar caminos intermedios que permitan proteger y escalar las semillas de H3.</p>
+<p>Paso 4. Cosecha y diseño - Usar el mapa de horizontes como lienzo de diseño para priorizar acciones. Preguntar: ¿qué debemos dejar ir (H1), qué apoyar y experimentar (H2), qué nutrir y proteger (H3)? Registrar aprendizajes y compromisos colectivos.</p>
+<p>👍 <em>Recursos de referencia</em></p>
+<ul>
+<li>Wahl, D. C. (2017) "Los tres horizontes de la innovación y el cambio cultural" <a href="https://designforsustainability.medium.com/the-three-horizons-of-innovation-and-culture-change-d9681b0e0b0f">disponible acá</a></li>
+<li>Sharpe, B. (2013). Three Horizons: The Patterning of Hope. Triarchy Press.</li>
+<li>Wahl, D. C. (2016). Designing Regenerative Cultures. Triarchy Press.</li>
+<li>Transformative Innovation Policy Consortium (TIPC). Three Horizons Toolkit.</li>
+<li>Future Stewards. Three Horizons as a Practice (recursos en abierto, inglés).</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      <script id="__config" type="application/json">{"base": "..", "features": [], "search": "../assets/javascripts/workers/search.973d3a69.min.js", "tags": null, "translations": {"clipboard.copied": "Copiado al portapapeles", "clipboard.copy": "Copiar al portapapeles", "search.result.more.one": "1 m\u00e1s en esta p\u00e1gina", "search.result.more.other": "# m\u00e1s en esta p\u00e1gina", "search.result.none": "No se encontraron documentos", "search.result.one": "1 documento encontrado", "search.result.other": "# documentos encontrados", "search.result.placeholder": "Teclee para comenzar b\u00fasqueda", "search.result.term.missing": "Falta", "select.version": "Seleccionar versi\u00f3n"}, "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.f55a23d4.min.js"></script>
+      
+    
+  </body>
+</html>
