@@ -236,6 +236,8 @@ Si utilizas este modelo para impulsar conversaciones de mapeo, estrategia o plan
 
 ✍️ _Aplicación en diseño de conversaciones_
 
+Paso 0. Identificar qué sistema se desea mapear con su temporalidad y territorio. Es clave partir de datos concretos de la realidad.
+
 Paso 1. Mapear el presente (H1) - ¿Qué define nuestro sistema actual? ¿Qué proyectos, prácticas, estructuras funcionan bien?¿Qué limitaciones, problemas o “síntomas de agotamiento” aparecen?¿Qué hacemos para ser parte del mundo como es hoy?
 
 Paso 2. Explorar el futuro emergente (H3) - ¿Qué visiones de futuro nos inspiran?¿Qué proyectos, prácticas, estructuras son del nuevo paradigma?¿Qué ejemplos, aunque pequeños, ya muestran semillas de lo nuevo?¿Cómo sería un futuro regenerativo o deseable para nuestra comunidad/sistema?
