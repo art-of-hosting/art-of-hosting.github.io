@@ -3,6 +3,8 @@ En esta sección queremos ofrecer algunas herramientas y marcos en los que nos g
 
 👉Preguntas poderosas (Juanita Brown y David Isaacs, The World Café, EE. UU., 2005)
 
+👉Espacio Caórdico (Dee Hock, Estados Unidos, 1990)
+
 👉Diamante de la participación (Sam Kaner y Community at Work, San Francisco, 1996)
 
 👉Doble Bucle (Berkana Institute, EE. UU., 2000s, inspirado en las prácticas de Margaret Wheatley y colegas)
@@ -85,6 +87,96 @@ Este enfoque convierte a las preguntas en semillas de transformación. En Art of
 **Recordá:** Gran parte del impacto que generemos se siembra en la fase de diseño. Pensar una buena pregunta puede ser un proceso que requiera tiempo, pero es clave que el equipo de anfitriones pueda dedicarle el tiempo necesario.
 
 Más información [acá](https://www.sparc.bc.ca/wp-content/uploads/2020/11/the-art-of-powerful-questions.pdf)
+
+## 🪢 Espacio Caordico
+
+✨ _¿Qué es?_
+El espacio caórdico surge de la unión entre caos y orden. Es el punto intermedio donde la claridad de un propósito se encuentra con la libertad creativa. Desde ahí, las personas y organizaciones pueden generar soluciones innovadoras, flexibles y sostenibles.
+
+🎨 _Breve historia_
+Años 90 – Dee Hock y VISA: Dee Hock fue el fundador y primer CEO de VISA International. A finales de los años 60 y comienzos de los 70, enfrentaba el desafío de organizar una red de miles de bancos que emitían tarjetas de crédito en distintos países, todos con intereses propios y, a la vez, con la necesidad de operar bajo un mismo sistema confiable.
+Hock entendió que un modelo rígido y jerárquico (orden absoluto) sofocaría la innovación, mientras que un sistema totalmente descentralizado (caos absoluto) generaría colapso. Creó entonces un sistema de auto gobernanza compartida: cada banco era autónomo, pero todos se coordinaban bajo principios y propósitos comunes.
+Nacimiento del concepto caórdico: Para describir esa forma de organización, Hock acuñó el término chaordic (caórdico), como síntesis entre caos y orden. Lo documentó en su libro Birth of the Chaordic Age (1999), donde planteó que las organizaciones del futuro debían aprender a operar de esta manera para sobrevivir en un mundo complejo y cambiante.
+Influencia posterior: Su visión trascendió el ámbito financiero e inspiró movimientos sociales, comunitarios y de innovación organizacional, influyendo directamente en la filosofía de Art of Hosting y en otras corrientes de liderazgo participativo.
+
+🌷 _Definiciones de caos, orden y espacio caórdico_
+
+<img width="1057" height="546" alt="image" src="https://github.com/user-attachments/assets/05c23b60-cd56-4a5e-80e3-3653ed3dfcf6" />
+
+**Caos:** apertura y creatividad máxima, donde todo es posible pero nada está definido. Da energía y movimiento. 
+En el extremo: confusión, miedo y colapso (chamos o caos destructivo).
+
+**Orden:** estructura, reglas y estabilidad. Brinda seguridad y claridad.
+En el extremo: opresión, rigidez y control sofocante.
+
+**Espacio caórdico:** el equilibrio dinámico entre ambos. Donde la energía del caos se canaliza mediante la claridad del orden, dando lugar a innovación, resiliencia y colaboración.
+El espacio caórdico al igual que en la naturaleza es ese espacio donde la vida innova, donde las cosas no están rígidamente estructuradas, y en cambio son lo suficientemente flexibles como para que ocurran las nuevas conexiones y soluciones. De ese caos... surgen nuevos niveles de orden. Al igual que en la naturaleza, en las organizaciones, el espacio entre el caos y el orden nos lleva hacia lo nuevo: hacia el aprendizaje colectivo y a la innovación en tiempo real.
+
+
+Cuando nos vamos a los extremos (colapso o control), aparece apatía, parálisis o incluso rebelión. La confianza caórdica es la capacidad de sostenernos en la tensión entre caos y orden para permitir que lo nuevo emerja.
+
+
+🐽 _Supuestos caórdicos_
+
+- Necesitamos nuevas soluciones: la complejidad actual exige co-creación con quienes están directamente involucrados.
+- La innovación nace entre caos y orden: la naturaleza innova “en el borde del caos”.
+- Las conversaciones importan: son la forma ancestral de crear sentido en conjunto.
+- Conversaciones significativas → acciones sabias: la claridad compartida aumenta compromiso y responsabilidad.
+- Organizaciones como sistemas vivos: se auto-organizan, aprenden y se adaptan mejor que los modelos tipo “máquina”.
+
+
+👂 _Aplicación en facilitación y organizaciones_
+
+Llaves a tener en cuenta:
+- Claridad de propósito: definir un “para qué” común.
+- Espacio para el caos creativo: abrir la exploración y la divergencia.
+- Estructura mínima: reglas y acuerdos que sostengan sin rigidez.
+- Oscilación entre apertura y cierre: alternar exploración y síntesis.
+- Confiar en lo emergente: permitir que las soluciones se desarrollen colectivamente.
+
+💎 _Liderazgo y gestión_
+
+**Liderazgo:** vive en el espacio caórdico, entre caos y orden. Requiere invitar a la co-creación y encontrar nuevas formas de operar ante la incertidumbre.
+
+**Gestión:** se ubica entre orden y control. Se enfoca en mantener procesos estables, buscar eficiencia, generar estándares y continuidad cuando se necesita predictibilidad.
+
+
+✨ _Organizaciones caórdicas_
+
+Se caracterizan por:
+-  Claridad de propósito y principios compartidos.
+- Autoorganización y autogobernanza.
+- Flexibilidad en formas y funciones.
+- Distribución equitativa de poder y responsabilidades.
+- Capacidad de aprender e innovar en ciclos continuos.
+- Compatibilidad con diversidad, complejidad y cambio.
+
+ Los pasos estratégicos del camino caórdico para un proyecto u organización:
+
+1. Identificar una necesidad real: La acción comienza al reconocer una necesidad significativa y colectiva que se debe satisfacer. Esta necesidad debe surgir desde el grupo y no ser impuesta por intereses personales.
+
+2. Definir el propósito: Clarificar el propósito que dará sentido a la comunidad o proyecto. Este propósito debe ser inspirador, vinculando a los miembros en torno a un objetivo "digno de ser perseguido".
+
+3. Establecer principios de cooperación: Crear un "contenedor" donde se definen los principios y acuerdos de colaboración. Estos principios guiarán la forma de trabajar juntos y garantizarán que las acciones sean coherentes con el propósito.
+
+4. Identificar a las personas involucradas: Reconocer a todos los participantes y afectados por la organización, involucrándolas en el proceso para que las decisiones tomen en cuenta sus necesidades y perspectivas.
+
+5. Desarrollar el concepto organizacional: Basándose en el propósito y principios, se crea un concepto organizacional que sea justo, equitativo y efectivo, y que responda a las necesidades del grupo.
+
+6. Superar las creencias limitantes: Identificar y superar las creencias que limitan la capacidad de innovación o que impiden que se lleve a cabo el concepto organizacional.
+
+7. Definir la estructura organizacional: Establecer la estructura formal (estatutos, contratos, relaciones) que materializa el propósito, principios y concepto, asegurando que todos los involucrados comprendan sus derechos y responsabilidades.
+
+8. Desplegar prácticas y acciones: Con todos los elementos claros (propósito, principios, personas, concepto y estructura), se implementan las prácticas y acciones que permiten la evolución continua y la adaptación a nuevas realidades.
+
+
+_"El caos es la madre de la creatividad, la innovación y la posibilidad; el orden proporciona la estructura que permite que todo funcione de manera eficiente. El espacio caórdico, donde ambos se encuentran, es el terreno fértil donde la resiliencia, la adaptación y la verdadera colaboración pueden surgir." Dee Hock_
+
+Fuentes:
+https://artofhosting.org/what-is-aoh/methods/the-chaordic-path/
+https://redextensionrural.blogspot.com/2016/02/el-valor-de-los-sistemas-caordicos-caos.html
+https://gestioninversa.org/2018/08/07/art-of-hosting-practicas-participativas-y-aa-pp/
+https://mmmastertrainer.wordpress.com/2016/09/18/espacios-caordicos-de-aprendizaje/
 
 
 ## 💎Diamante de la participación
