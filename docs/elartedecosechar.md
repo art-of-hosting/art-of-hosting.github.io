@@ -7,7 +7,7 @@ No se trata sólo de guardar información, sino de darle sentido, hacerla visibl
 
 Además, es importante considerar que para cualquier proceso o encuentro, la cosecha se diseña considerando cuatro cuadrantes:
 
-<img width="893" height="668" alt="image" src="https://github.com/user-attachments/assets/52d60ad6-fab8-4df9-b0b6-a27e23c9b00a" />
+![Imagen de WhatsApp 2025-09-25 a las 12 51 54_fad83fb0](https://github.com/user-attachments/assets/b48cdd9c-81a3-4bd9-8bc0-f96aed85964b)
 
 _Imagen creada por Marcela Sotela, inspirada en la original de Mónica Nissen_
 
