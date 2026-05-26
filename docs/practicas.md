@@ -428,7 +428,6 @@ La Pecera es una excelente alternativa a los paneles de expertos tradicionales, 
 - 🚫 **Evitar monólogos:** Reemplaza las exposiciones magistrales extensas por un diálogo fluido y vivo.
 - 🤝 **Fortalecer la confianza:** Ayuda a compartir información clave estrechando los vínculos del grupo a través de la escucha mutua.
 
----
 
 ### 🛠️ Cómo se hace la Pecera
 
@@ -452,7 +451,6 @@ El resto de las sillas se colocan en anillos alrededor de la Pecera. Quienes se 
 📝 **Nota de diseño:**  
 Si el grupo es muy grande, se aconseja elevar ligeramente las sillas centrales y diseñar pasillos amplios y despejados que conecten los círculos externos con el centro para facilitar el movimiento y la rotación.
 
----
 
 ## 🎯 Variantes de la Pecera
 
@@ -480,7 +478,7 @@ Con este sistema de entrada, espera y salida constante, la conversación nunca s
 
 Es muy común que, al cabo de un tiempo, ninguno de los integrantes iniciales siga en el centro.
 
----
+
 
 ### 2️⃣ Pecera Cerrada
 
@@ -498,7 +496,7 @@ Una vez que el grupo central termina, el anfitrión cierra la Pecera y resume lo
 
 Según el diseño, se puede abrir un espacio posterior para que el círculo externo comparta sus percepciones y resonancias sobre lo que escucharon.
 
----
+
 
 ## 🌿 Principios para los Participantes
 
@@ -519,7 +517,7 @@ Para mantener la calidad del contenedor de la conversación, se sugieren las sig
 - 🎤 **Respeto a la palabra:**  
   Habla una sola persona a la vez. Se recomienda el uso de un micrófono o un objeto de la palabra para regular los turnos en el centro.
 
----
+
 
 ## 🌟 Factores Clave para el Éxito (Rol del Anfitrión)
 
@@ -534,7 +532,7 @@ Para mantener la calidad del contenedor de la conversación, se sugieren las sig
 
 ⚠️ Esto es especialmente importante cuando hay expertos o directivos presentes: deben participar en igualdad de condiciones, sin monopolizar el diálogo.
 
----
+
 
 ## 🧰 ¿Qué se necesita? (Requerimientos)
 
