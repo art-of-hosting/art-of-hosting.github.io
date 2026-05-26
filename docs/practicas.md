@@ -1,5 +1,5 @@
 # Prácticas
-En esta sección te compartiremos una guía de anfitrionazgo para las prácticas de: Cafe del Mundo (World Cafe), Espacio Abierto (OpenSpace), Cosecha colectiva de Historias, Círculo, Diseño para la acción Sabia (DAS) y Cafe ProAction.
+En esta sección te compartiremos una guía de anfitrionazgo para las prácticas de: Cafe del Mundo (World Cafe), Espacio Abierto (OpenSpace), Cosecha colectiva de Historias, Círculo, Diseño para la acción Sabia (DAS), Cafe ProAction y Pecera (Fishbowl).
 
 ## 💫 Círculo de la palabra
 El Círculo de Conversación es una metodología de diálogo basada en la práctica ancestral de reunirse en círculo para compartir sabiduría, resolver problemas y fortalecer la comunidad. Formalizado por Christina Baldwin y Ann Linnea en The Circle Way, este enfoque ayuda a generar conversaciones significativas en las que cada persona es escuchada y cada voz es valorada.
@@ -412,3 +412,143 @@ Cosecha y próximos pasos:
 - Honrar la generosidad del grupo: reconocer el aporte de quienes colaboran, porque la práctica fortalece tanto al proyecto como a la comunidad que la sostiene.
 
 
+## 🐟 Pecera (Fishbowl)
+
+La **Pecera** (o *Fishbowl* en inglés) es una metodología de diálogo diseñada para abordar conversaciones profundas sobre asuntos importantes en grupos grandes. Su gran ventaja radica en que combina la intimidad, el enfoque y la agilidad de una conversación en un grupo pequeño, con la capacidad de inclusión, escucha activa y co-creación de una asamblea numerosa.
+
+---
+
+### ⏳ Cuándo usar la Pecera
+
+La Pecera es una excelente alternativa a los paneles de expertos tradicionales, debates estructurados o largas presentaciones. Se recomienda especialmente para:
+
+- 🔍 **Fomentar la transparencia:** Ideal para visibilizar procesos de debate y toma de decisiones de manera abierta ante toda la organización o comunidad.
+- 🌱 **Abordar la complejidad:** Permite explorar múltiples perspectivas sobre temas complejos o polémicos de forma ordenada y madura.
+- 🗣️ **Estimular la participación dinámica:** Rompe la barrera entre "disertantes" y "audiencia", democratizando el acceso a la palabra.
+- 🚫 **Evitar monólogos:** Reemplaza las exposiciones magistrales extensas por un diálogo fluido y vivo.
+- 🤝 **Fortalecer la confianza:** Ayuda a compartir información clave estrechando los vínculos del grupo a través de la escucha mutua.
+
+---
+
+### 🛠️ Cómo se hace la Pecera
+
+La disposición física del lugar es un factor crítico para el éxito y la energía de esta dinámica.
+
+#### 🪑 El Círculo Central (La Pecera)
+
+Se disponen entre **4 y 6 sillas** formando un círculo pequeño en el centro del salón. Solo las personas sentadas en este espacio tienen el derecho a hablar.
+
+💡 **Tip de facilitación:**  
+Para una **Pecera Abierta**, la configuración ideal es de **4 sillas (3 personas conversando y 1 vacía)**. Esta regla del “3+1” genera una dinámica muy ágil y visual.
+
+Si usas una **Pecera Cerrada**, disponer 5 o 6 sillas ayuda a asegurar una masa crítica para que la conversación fluya sin interrupciones.
+
+⚠️ Evita superar las 6 u 8 sillas, ya que se pierde la intimidad y el formato colapsa.
+
+#### 🔄 Los Círculos Concéntricos
+
+El resto de las sillas se colocan en anillos alrededor de la Pecera. Quienes se sientan allí asumen el rol de escucha atenta.
+
+📝 **Nota de diseño:**  
+Si el grupo es muy grande, se aconseja elevar ligeramente las sillas centrales y diseñar pasillos amplios y despejados que conecten los círculos externos con el centro para facilitar el movimiento y la rotación.
+
+---
+
+## 🎯 Variantes de la Pecera
+
+### 1️⃣ Pecera Abierta (La más dinámica)
+
+En esta modalidad, la conversación fluye de manera orgánica gracias a un sistema claro de rotación. Se inicia el proceso dejando una silla vacía en el círculo central.
+
+#### ➕ La Entrada
+
+La silla libre representa una invitación constante. Cualquier persona del círculo externo que sienta la necesidad de aportar una idea, responder a lo dicho o plantear una pregunta poderosa, camina hacia el centro, se sienta en la silla vacía y espera su lugar.
+
+#### 🔁 La Dinámica de Rotación (Regla del más antiguo)
+
+Para mantener el orden y la fluidez, se aplica una regla mecánica muy sencilla:
+
+> Siempre habla la persona que lleva más tiempo sentada en la pecera.
+
+#### 🚪 La Salida
+
+Una vez que esa persona termina de hablar y hace su aporte, se levanta y regresa al círculo externo. Esto libera una nueva silla, permitiendo que quien acababa de entrar pase a tener la prioridad de palabra.
+
+#### ✨ El Efecto
+
+Con este sistema de entrada, espera y salida constante, la conversación nunca se estanca en las mismas personas y pasa a ser propiedad de toda la comunidad.
+
+Es muy común que, al cabo de un tiempo, ninguno de los integrantes iniciales siga en el centro.
+
+---
+
+### 2️⃣ Pecera Cerrada
+
+En esta modalidad, todas las sillas del círculo central se ocupan desde el inicio por personas seleccionadas previamente o voluntarias.
+
+#### 💬 La Dinámica
+
+Este grupo conversa durante un tiempo predeterminado (o hasta agotar el tema) mientras los círculos externos escuchan atentamente.
+
+Nadie puede ingresar al centro durante el diálogo.
+
+#### 🧭 El Cierre
+
+Una vez que el grupo central termina, el anfitrión cierra la Pecera y resume los puntos clave.
+
+Según el diseño, se puede abrir un espacio posterior para que el círculo externo comparta sus percepciones y resonancias sobre lo que escucharon.
+
+---
+
+## 🌿 Principios para los Participantes
+
+Para mantener la calidad del contenedor de la conversación, se sugieren las siguientes pautas:
+
+- 🎯 **Hablar con intención y escuchar con atención:**  
+  Exprésate de forma sucinta, clara y con mucho foco. Evita grandes exposiciones o monólogos extensos.
+
+- 🌱 **Aporte constructivo:**  
+  Entra al círculo central solo cuando sientas que tienes algo que sume valor al flujo actual de la conversación.
+
+- 🔄 **Respetar el flujo:**  
+  Si entras a la pecera abierta, asume tu momento de espera con paciencia.
+
+- 🤫 **El valor del silencio:**  
+  El silencio también es parte del diálogo; sostener el espacio desde la escucha silenciosa es una forma activa y valiosa de participación.
+
+- 🎤 **Respeto a la palabra:**  
+  Habla una sola persona a la vez. Se recomienda el uso de un micrófono o un objeto de la palabra para regular los turnos en el centro.
+
+---
+
+## 🌟 Factores Clave para el Éxito (Rol del Anfitrión)
+
+- 🔥 **Tema relevante:**  
+  El asunto a tratar debe importar genuinamente y tener urgencia o pertinencia para las personas presentes.
+
+- 🧭 **Crear el campo:**  
+  La manera en la que el facilitador introduce el tema, explica la regla de rotación y lanza la invitación es vital para construir confianza y seguridad psicológica.
+
+- 🌊 **Permitir la emergencia:**  
+  Nadie debe controlar rígidamente el flujo de las ideas. El contenido debe emerger orgánicamente del grupo.
+
+⚠️ Esto es especialmente importante cuando hay expertos o directivos presentes: deben participar en igualdad de condiciones, sin monopolizar el diálogo.
+
+---
+
+## 🧰 ¿Qué se necesita? (Requerimientos)
+
+- 🏛️ **Espacio físico amplio:**  
+  Un salón flexible que permita la reconfiguración rápida de las sillas.
+
+- 🪑 **Mobiliario:**  
+  Sillas suficientes para todo el grupo (sin mesas en el centro que bloqueen la visual o el paso).
+
+- 🚶 **Pasillos de acceso:**  
+  Caminos despejados entre las filas externas para que el ingreso y egreso de la Pecera sea cómodo y fluido.
+
+- 🔊 **Audio (opcional):**  
+  Micrófonos inalámbricos de mano si el espacio es muy grande o la acústica es deficiente.
+
+- 📝 **Infraestructura de cosecha:**  
+  Papelógrafos, pizarras o paneles en las paredes para que los cosechadores registren gráficamente las ideas clave, preguntas poderosas y acuerdos emergentes.
