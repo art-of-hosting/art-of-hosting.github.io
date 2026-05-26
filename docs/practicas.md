@@ -1,6 +1,8 @@
 # Prácticas
 En esta sección te compartiremos una guía de anfitrionazgo para las prácticas de: Cafe del Mundo (World Cafe), Espacio Abierto (OpenSpace), Cosecha colectiva de Historias, Círculo, Diseño para la acción Sabia (DAS), Cafe ProAction y Pecera (Fishbowl).
 
+---
+
 ## 💫 Círculo de la palabra
 El Círculo de Conversación es una metodología de diálogo basada en la práctica ancestral de reunirse en círculo para compartir sabiduría, resolver problemas y fortalecer la comunidad. Formalizado por Christina Baldwin y Ann Linnea en The Circle Way, este enfoque ayuda a generar conversaciones significativas en las que cada persona es escuchada y cada voz es valorada.
 
@@ -57,6 +59,7 @@ Esta metodología es ideal cuando: se busca una conversación profunda y signif
 
 El Círculo de Conversación es una práctica poderosa para fomentar la expresión auténtica y el aprendizaje colectivo. Con el ambiente y la intención adecuados, puede transformar la manera en que nos relacionamos y construimos comunidad. ✨
 
+---
 
 ## ☕ Cafe del Mundo
 
@@ -114,6 +117,7 @@ El proceso de un Café del Mundo sigue estos pasos:
 
 El Café del Mundo es una herramienta poderosa para facilitar conversaciones transformadoras. Con una buena preparación y una pregunta inspiradora, permite generar conexiones, aprendizajes y soluciones innovadoras. ✨
 
+---
 
 ## 🚀 Espacio abierto
 
@@ -184,6 +188,7 @@ _Durante la facilitación:_
 
 El Espacio Abierto es una metodología poderosa para liberar el potencial de los grupos y permitir que emerjan las ideas y acciones más significativas. Con la actitud correcta y un buen diseño, puede transformar reuniones en experiencias impactantes. ✨
 
+---
 
 ## 🌷Cosecha colectiva de historias
 
@@ -254,6 +259,7 @@ Opcional: equipo de grabación de audio/video y para fotos 📷🎤
 
 Si tienen en su grupo personas con talentos en facilitación gráfica, poesía, música, mapas mentales, arte, etc., ¡invítalas a cosechar en esas formas! Le agregan belleza, diversidad y gozo al proceso. 🎶🎨🖌️
 
+---
 
 ## 🪃 Cafe Pro-acción
 
@@ -317,6 +323,7 @@ _Entre cada ronda, se recomienda hacer pequeñas pausas para permitir que las pe
 
 El Café Pro Action transforma ideas en acción a través del poder de la comunidad. ¡Manos a la obra! 🚀✨
 
+---
 
 ## 🌀 Diseño para la Acción Sabia (DAS)
 El Diseño para la Acción Sabia (DAS) nace como un espacio donde quienes impulsan proyectos pueden recibir apoyo y nuevas perspectivas, mientras que las personas participantes ejercitan la colaboración y la generosidad. Su propósito es acompañar la construcción de un mapa de ruta compartido que permita atravesar de manera consciente las etapas y actores de un proceso de cambio, generando acciones no solo eficientes, sino también sabias, conscientes y regenerativas.
@@ -411,6 +418,7 @@ Cosecha y próximos pasos:
 - Cerrar con próximos pasos concretos: asegurar que cada convocante se lleve claridad sobre qué hacer inmediatamente después del DAS, y cuáles son los pasos sabios que seguirá.
 - Honrar la generosidad del grupo: reconocer el aporte de quienes colaboran, porque la práctica fortalece tanto al proyecto como a la comunidad que la sostiene.
 
+---
 
 ## 🐟 Pecera (Fishbowl)
 
