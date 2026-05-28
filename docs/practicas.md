@@ -461,6 +461,9 @@ En esta modalidad, la conversación fluye de manera orgánica gracias a un siste
 
 - El Efecto: Con este sistema de entrada, espera y salida constante, la conversación nunca se estanca en las mismas personas y pasa a ser propiedad de toda la comunidad. Es muy común que, al cabo de un tiempo, ninguno de los integrantes iniciales siga en el centro.
 
+<img width="411" height="383" alt="image" src="https://github.com/user-attachments/assets/206b1e29-f016-4cd3-9b74-c779e8d85331" />
+
+
 **2️⃣ Pecera Cerrada**
 
 En esta modalidad, todas las sillas del círculo central se ocupan desde el inicio por personas seleccionadas previamente o voluntarias.
