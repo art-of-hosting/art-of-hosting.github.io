@@ -20,6 +20,10 @@ El Círculo de Conversación se basa en tres elementos clave:
 
 Los círculos pueden usarse para la resolución de conflictos, la toma de decisiones, el aprendizaje compartido o simplemente para generar un espacio de conexión y reflexión ya que son espacios de profundo discernimiento. Para profundizar en la práctica del Círculo de Conversación, puedes consultar la [web en español de The Circle Way](https://www.thecircleway.net/)
 
+<img width="300" height="199" alt="image" src="https://github.com/user-attachments/assets/c2cd1cb5-2c79-48bd-bd81-c6449b62252e" />
+
+_Imagen extraida de https://artofhosting.org/que-es/_
+
 
 **⏳ Cuándo usar un Círculo de Conversación**
 
@@ -65,6 +69,10 @@ El Círculo de Conversación es una práctica poderosa para fomentar la expresi�
 
 El "Café del Mundo" (World Café) es una de las metodologías principales dentro de Art of Hosting. Es una herramienta poderosa para facilitar conversaciones significativas en grupos grandes, promoviendo la inteligencia colectiva y la co-creación de conocimiento. Su estructura flexible permite que los participantes exploren temas profundos en un ambiente relajado y abierto, similar a una conversación en una cafetería.
 
+<img width="597" height="396" alt="image" src="https://github.com/user-attachments/assets/ee8b79c9-bab2-418a-aa04-9cb514eb4a57" />
+
+_imagen de https://mspguide.org/2022/03/18/world-cafe/_
+
 **📚 Introducción**
 
 El World Café fue desarrollado por Juanita Brown y David Isaacs en la década de 1990 y propone vivir los siguientes principios a los que llama "la etiqueta del Café del Mundo":
@@ -99,6 +107,10 @@ El proceso de un Café del Mundo sigue estos pasos:
 
 📢 Explicar la dinámica: Se da la bienvenida a las personas, se comparte la dinámica que se realizará y la etiqueta del cafe. Se invita a las personas a sentarse en las mesas y elegir un "anfitrión/a" que permanecerá en ella, las demas personas podrán rotar de mesas en las rondas siguientes como "embajadores/as de ideas". Todas las personas están invitadas a cosechar sus ideas en el mantel de papel, es un elemento clave de la dinámica.
 
+<img width="228" height="221" alt="image" src="https://github.com/user-attachments/assets/264eb493-d6ff-4963-a073-bc56f6f0b996" />
+
+_imagen de "Una Guía Rápida para ser Anfitrión de World Café"_
+
 🔄 Conversaciones en rondas: Se llevan a cabo 3 o 4 rondas de 15-30 minutos cada una. Al finalizar cada ronda, todos cambian de mesa excepto un "anfitrión de mesa", quien permanece para compartir un resumen de la conversación previa con los nuevos integrantes. A medida que avanzan las rondas, se conectan y amplifican ideas.
 
 📝 Cosecha colectiva: Al finalizar las rondas, un portavoz de cada mesa (comunmente lo hace el "anfitrión/a" que permaneció en ella) comparte las ideas principales con el grupo completo, se comparten las cosechas de las mesas para descubrir la inteligencia colectiva que ha emergido. Luego del evento es clave recopilar y sintetizar los aprendizajes emergentes. Se puede usar un mural, notas en papel, dibujos o grabaciones para capturar los hallazgos clave que permitirán tomar las decisiones para las cuales se diseñó el proceso.
@@ -125,6 +137,8 @@ El "Espacio Abierto" (Open Space Technology) es una metodología de facilitació
 
 Se utiliza cuando hay un tema o desafío central, pero no se sabe cuáles son las mejores preguntas ni cómo organizarlas. La metodología permite que emerjan las conversaciones y acciones más relevantes para el grupo. 
 
+Video explicativo: https://www.youtube.com/watch?v=95pQJ_OuP8E
+
 **📚 Introducción**
 
 Open Space Technology se basa en cuatro principios y una ley fundamental:
@@ -150,6 +164,11 @@ _Previo a la facilitación:_
 👉Convocar a personas vinculadas con esa pregunta, explicando el tipo de evento y la cualidad de participación que requerirá.
 
 👉Preparar el espacio: se deben incluir al menos los siguientes artefactos - una grilla con la cantidad de rondas y espacios disponibles (se recomienda que haya espacio para una conversación cada 5 personas), la pregunta convocante, los principios y la ley visibles en el espacio y materiales para cosechar. Además, se deben visibilizar los roles: Abejas (que van de conversación en conversación, polinizando) y Mariposas (que se quedan en un mismo espacio hasta que termina).
+
+Te mostramos cómo se ve la agenda vacía al inicio:
+
+<img width="1000" height="750" alt="image" src="https://github.com/user-attachments/assets/9068223f-a75e-4d3b-ba4f-ddc490e504ae" />
+
 
 _Durante la facilitación:_
 
