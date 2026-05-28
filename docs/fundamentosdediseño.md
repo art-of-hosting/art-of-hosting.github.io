@@ -251,8 +251,7 @@ El modelo describe cómo los sistemas sociales atraviesan transiciones profundas
   
 La intersección de ambos bucles es el espacio de transición, donde lo viejo declina y lo nuevo todavía es frágil.
 
-<img width="775" height="505" alt="image" src="https://github.com/user-attachments/assets/71fd0f1a-f073-46cb-9539-364aa53a173a" />
-
+<img width="1553" height="1013" alt="image" src="https://github.com/user-attachments/assets/da63f1c9-9271-43f4-a979-43c5d053d864" />
 _Imagen disponible en www.berkana.org_
 
 
@@ -304,9 +303,8 @@ Los Tres Horizontes (3H) son un marco para comprender el cambio en sistemas comp
 
 El referente creador del modelo fue Bill Sharpe ("Three Horizons: The Patterning of Hope" en 2013) y Daniel Christian Wahl lo retomó y adaptó en su libro "Designing Regenerative Cultures" de 2016. El modelo ha sido difundido en la práctica de facilitación estratégica, foresight y sostenibilidad.
 
-<img width="600" height="360" alt="image" src="https://github.com/user-attachments/assets/c2a222c6-2ef6-4a34-908f-a730690d96ca" />
-
-_Figura creada por Daniel Wahl Adaptado de bit.ly/DRC229 con permiso de IFF_
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ab8f1f0b-7f0a-4ae2-896e-ea659a8be8eb" />
+_Figura creada por Daniel Wahl Adaptado de bit.ly/DRC229 con permiso de IFF. Traducida con IA generativa_
 
 - **Horizonte 1 (H1):** el sistema dominante actual, lo conocido, lo que funciona hoy, pero que empieza a mostrar límites y “síntomas de agotamiento”.
 
