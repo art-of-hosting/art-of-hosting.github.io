@@ -1,5 +1,39 @@
 # Prácticas
-En esta sección te compartiremos una guía de anfitrionazgo para las prácticas de: Cafe del Mundo (World Cafe), Espacio Abierto (OpenSpace), Cosecha colectiva de Historias, Círculo, Diseño para la acción Sabia (DAS), Cafe ProAction y Pecera (Fishbowl).
+En esta sección te compartiremos una guía de anfitrionazgo para las prácticas de: Check-in y Check-out, Cafe del Mundo (World Cafe), Espacio Abierto (OpenSpace), Cosecha colectiva de Historias, Círculo, Diseño para la acción Sabia (DAS), Cafe ProAction y Pecera (Fishbowl).
+
+---
+## 👋Check in y Check out
+
+**📚 Introducción**
+
+En la práctica del Arte de Anfitrionar y Cosechar conversaciones que importan, entendemos los espacios de encuentro como procesos vivos. Para que un grupo de personas pueda co-crear y anfitrionar conversaciones significativas, primero necesita estar presente. 
+
+El Check-in y el Check-out son los umbrales que marcan la entrada y la salida de este contenedor social. Por eso, no las consideramos como simples actividades rompehielos o de cierre. Son tecnologías sociales que operan sobre los campos invisibles de la energía grupal. Representan el inicio y el fin del viaje colectivo.
+
+### 1. El Check-in
+
+Vivir un Check-in es atravesar un umbral hacia el espacio colectivo al que fuimos invitadas. 
+Si estamos anfitrionando, es diseñar y acompañar a las personas en una transición que guía la conexión con lo que convoca a cada persona con el propósito y a una conexión con las otras personas que están presentes. 
+Es el momento en el que cada uno y, al mismo tiempo, como grupo pasamos a estar presentes en el espacio que estamos habitando y conectamos con el propósito que nos convoca.
+
+🎯 **Elementos**
+- Honrar la Presencia: El propósito no es saber "cómo está" la gente en términos transaccionales, sino invitar a la persona entera (mente, cuerpo, corazón y espíritu) a habitar el presente en ese espacio.
+- Reconocerse: Al escuchar la voz de otras personas, el grupo se reconoce a sí mismo como un sistema diverso y vivo. Permitir al grupo reconocer el estado emocional, los niveles de energía y las expectativas reales con las que llega el grupo.
+- Soltar el "Afuera": Ayudar a las personas a hacer la transición desde sus tareas previas hacia el propósito del encuentro actual.
+- Respeto de los ritmos: Al ser un momento de llegada, donde cada persona viene de una realidad distinta, es importante cuidar el ritmo, la disponibilidad emocional, y la posibilidad de que alguna persona no esté lista aún para sumarse a la actividad o que prefiera estar en silencio.
+
+### 2. El Check-out
+
+El Check-out es el dispositivo que cierra el contenedor. Así como el Check-in abre la experiencia, el Check-out formaliza la salida. Se busca que la energía no se disipe y el aprendizaje no se evapore y que el grupo se desasocie del espacio de manera consciente.
+En Art of Hosting, decimos que “una conversación no termina cuando la gente se va, sino cuando la cosecha se comparte”.
+
+🎯 **Elementos**
+- Cosechar el Sentido: Permitir que la experiencia vivida deje de ser un cúmulo de datos o momentos y se transforme en aprendizaje colectivo y sabiduría compartida.
+- El Cierre del Contenedor: Devolver la energía prestada al encuentro. Así como abrimos un espacio de confianza, debemos cerrarlo con la misma consciencia para que los participantes regresen a sus realidades "completos" y transformados.
+Sembrar el Futuro: El check-out no mira sólo hacia atrás (lo que pasó), sino hacia adelante (lo que nace a partir de lo que pasó).
+- El Retorno al Origen: El espacio se cierra de la misma forma en que se abrió, demostrando coherencia y estructura.
+- Ofrendar la Cosecha: Cada palabra compartida en el check-out es un fruto del trabajo del día que se ofrece de regreso a la comunidad.
+- Celebración y Gratitud: Reconocer el tiempo, la vulnerabilidad y la energía que cada persona donó para que la conversación fuera posible.
 
 ---
 
