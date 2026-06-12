@@ -6,4 +6,4 @@ En las diferentes secciones, hemos recogido y adaptado las contribuciones de la 
 
 **Puedes compartir este link con quien quieras** ya que las referencias y reconocimientos de creación de contenido ya se encuentran definidas en las diferentes secciones.
 
-Quienes lideraron la construcción de este manual fueron: Vir Regner, Prem Zalzman, Vanesa Railef, Giuliana Santoli y Milenka Wanek.
+Quienes lideraron la construcción de este manual fueron: Vir Regner, Prem Zalzman, Vanesa Railef, Giuliana Santoli, Milenka Wanek y Fernando Lamelas.
